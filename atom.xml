@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-23T07:42:29.000Z</updated>
+  <updated>2017-01-23T10:11:02.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,96 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Markdown練習</title>
+    <link href="http://yoursite.com/2017/01/23/Markdown%E7%B7%B4%E7%BF%92/"/>
+    <id>http://yoursite.com/2017/01/23/Markdown練習/</id>
+    <published>2017-01-23T07:55:52.000Z</published>
+    <updated>2017-01-23T10:11:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Markdown簡介"><a href="#Markdown簡介" class="headerlink" title="Markdown簡介"></a>Markdown簡介</h2><blockquote>
+<p>Markdown的目標是實現「易讀易寫」，最大靈感來源其實是純文字的電子郵件格式。</p>
+</blockquote>
+<p>Markdown的語法有個主要的目的：用來作為一種網路內容的寫作用語言<br>他並不是用來取代html，html已經很容易寫了，Markdown的重點在於讓文件更易讀、編寫。<br>html是一種發佈格式，Markdown是一種編寫的個是，因此Markdown格式只涵蓋純文字可以涵蓋的範圍</p>
+<h3 id="行內HTML"><a href="#行內HTML" class="headerlink" title="行內HTML"></a>行內HTML</h3><ol>
+<li><p>區塊元素<br> 如<code>&lt;div&gt;、&lt;table&gt;、&lt;pre&gt;、&lt;p&gt;</code>等標籤，必需在前後加上空行，以利與內容區隔。<br> 例如：在Markdown中加入HTML表格</p>
+ <table><br>     <tr><br>         <td>哈妮貓</td><br>         <td>小貓</td><br>         <td>酷貓</td><br>         <td>大貓</td><br>     </tr><br> </table>
+
+<p> Markdown語法在HTML區塊標籤中將不會被進行處理。</p>
+</li>
+<li><p>區段標籤<br> 如<code>&lt;span&gt;、&lt;cite&gt;、&lt;del&gt;</code>則不受限制，可以在Markdown的段落、清單或是標題裡任意使用。舉例說明：如果比較喜歡HTML的<code>&lt;a&gt;</code>或<code>&lt;img&gt;</code>標籤，可以直接使用這些標籤。</p>
+<p> HTML區段標籤和區塊標籤不同，在區段標籤的範圍內，Markdown的語法是有效的。</p>
+</li>
+</ol>
+<h3 id="特殊字元轉換"><a href="#特殊字元轉換" class="headerlink" title="特殊字元轉換"></a>特殊字元轉換</h3><p>在HTML中，必須使用實體形式ex: &lt;和&amp;<br>Markdown中允許直接使用，但要小心跳脫字元的使用</p>
+<h2 id="區塊元素"><a href="#區塊元素" class="headerlink" title="區塊元素"></a>區塊元素</h2><h4 id="標題"><a href="#標題" class="headerlink" title="標題"></a>標題</h4><ol>
+<li><p><code>=</code>為最高標題，<code>-</code>為第二標題</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">This is the title</div><div class="line">=====</div><div class="line">this is subtitle</div><div class="line">----</div></pre></td></tr></table></figure>
+</li>
+<li><p>插入1~6<code>#</code>分別對應到1~6階</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># title</div><div class="line">## title</div><div class="line">### title</div><div class="line">#### title</div><div class="line">##### title</div><div class="line">###### title</div></pre></td></tr></table></figure>
+</li>
+</ol>
+<h4 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h4><blockquote>
+<p>每一行都加上 <code>&gt;</code></p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&gt; This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,</div><div class="line">&gt; consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.</div><div class="line">&gt; Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</div><div class="line">&gt; </div><div class="line">&gt; Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse</div><div class="line">&gt; id sem consectetuer libero luctus adipiscing.</div></pre></td></tr></table></figure>
+<blockquote>
+<p>也可以只在第一行加上 <code>&gt;</code></p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&gt; This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,</div><div class="line">consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.</div><div class="line">Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</div><div class="line"></div><div class="line">&gt; Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse</div><div class="line">id sem consectetuer libero luctus adipiscing.</div></pre></td></tr></table></figure>
+<blockquote>
+<p>引言內的引言：再加一層 <code>&gt;</code></p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&gt; This is the first level of quoting.</div><div class="line">&gt;</div><div class="line">&gt; &gt; This is nested blockquote.</div><div class="line">&gt;</div><div class="line">&gt; Back to the first level.</div></pre></td></tr></table></figure>
+<h4 id="List"><a href="#List" class="headerlink" title="List"></a>List</h4><blockquote>
+<p>Unorder List <code>* + -</code> 做開頭</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">*   Cat</div><div class="line">*   Dog</div><div class="line">+   Cat</div><div class="line">+   Dog</div><div class="line">-   Ubuntu</div><div class="line">-   Ubuntu</div></pre></td></tr></table></figure>
+<blockquote>
+<p>Order List 數字. 做開頭，數字並不會影響結果</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">1.  Bird</div><div class="line">1.  McHale</div><div class="line">1.  Parish</div><div class="line">3. Bird</div><div class="line">1. McHale</div><div class="line">8. Parish</div></pre></td></tr></table></figure>
+<p>如果清單項目間用空行分開， Markdown會把項目的內容在輸出時用</p><p>標籤包起來<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">*   Bird</div><div class="line"></div><div class="line">*   Magic</div></pre></td></tr></table></figure></p>
+<p>會變成<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&lt;ul&gt;</div><div class="line">&lt;li&gt;&lt;p&gt;Bird&lt;/p&gt;&lt;/li&gt;</div><div class="line">&lt;li&gt;&lt;p&gt;Magic&lt;/p&gt;&lt;/li&gt;</div><div class="line">&lt;/ul&gt;</div></pre></td></tr></table></figure></p>
+<p>如果要放程式碼區塊的話，該區塊就需要縮排兩次，也就是8個空白或是兩個tab</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">*   A list item with a code block:</div><div class="line"></div><div class="line">        &lt;code goes here&gt;</div></pre></td></tr></table></figure>
+<h4 id="程式碼"><a href="#程式碼" class="headerlink" title="程式碼"></a>程式碼</h4><blockquote>
+<p>簡單地縮排4個空白或是1個tab就可以</p>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">This is a normal paragraph:</div><div class="line"></div><div class="line">    This is a code block.</div></pre></td></tr></table></figure>
+<p>程式碼區塊會一直持續到縮排結束為止</p>
+<blockquote>
+<p>Markdown會自動轉換特殊符號<br>    <div class="footer"><br>        &copy; 2004 Foo Corporation<br>    </div><br>變成<br>    <pre><code>&lt;div class=”footer”&gt;<br>    &amp;copy; 2004 Foo Corporation<br>    &lt;/div&gt;<br>    </code></pre></p>
+</blockquote>
+<h4 id="分隔線"><a href="#分隔線" class="headerlink" title="分隔線"></a>分隔線</h4><blockquote>
+<p>一行中用三個或以上的星號、減號、底線建立</p>
+<pre><code>* * *
+***
+*****
+- - -
+---------------------------------------
+</code></pre></blockquote>
+<h2 id="區段元素"><a href="#區段元素" class="headerlink" title="區段元素"></a>區段元素</h2><p>參考資料：<a href="http://markdown.tw" target="_blank" rel="external">Markdown文件</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Markdown簡介&quot;&gt;&lt;a href=&quot;#Markdown簡介&quot; class=&quot;headerlink&quot; title=&quot;Markdown簡介&quot;&gt;&lt;/a&gt;Markdown簡介&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Markdown的目標是實現「易讀易寫」，最大靈感
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo主題索引</title>
     <link href="http://yoursite.com/2017/01/23/Hexo%E4%B8%BB%E9%A1%8C%E7%B4%A2%E5%BC%95/"/>
     <id>http://yoursite.com/2017/01/23/Hexo主題索引/</id>
     <published>2017-01-23T07:06:31.000Z</published>
-    <updated>2017-01-23T07:42:29.000Z</updated>
+    <updated>2017-01-23T07:52:01.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="官方主題頁-Hexo-Themes"><a href="#官方主題頁-Hexo-Themes" class="headerlink" title="官方主題頁: Hexo Themes"></a>官方主題頁: <a href="https://hexo.io/themes/" target="_blank" rel="external">Hexo Themes</a></h2><h2 id="NexT"><a href="#NexT" class="headerlink" title="NexT"></a>NexT</h2><ul>
 <li><a href="http://notes.iissnan.com" target="_blank" rel="external">Demo</a></li>
