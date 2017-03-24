@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-24T20:11:46.000Z</updated>
+  <updated>2017-03-24T20:18:41.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Online Course Plan</title>
+    <link href="http://yoursite.com/2017/03/25/%E7%B6%B2%E8%B7%AF%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/03/25/網路課程整理/</id>
+    <published>2017-03-24T20:18:41.000Z</published>
+    <updated>2017-03-24T20:18:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>教學平台</p>
+</blockquote>
+<h4 id="Hahow"><a href="#Hahow" class="headerlink" title="Hahow"></a><a href="https://hahow.in" target="_blank" rel="external">Hahow</a></h4><pre><code>- [動畫互動網頁程式入門 (HTML/CSS/JS)](https://hahow.in/courses/56189df9df7b3d0b005c6639)
+
+- [不懂設計，也能學會的資訊圖像化密技！ by 圖文不符](https://hahow.in/courses/572be49fd60bb3090091d208)
+
+- [AutoCAD 電腦繪圖2D基礎篇－紮實入門](https://hahow.in/courses/577d9599d0c303070041173a)
+</code></pre><h4 id="Udemy"><a href="#Udemy" class="headerlink" title="Udemy"></a><a href="http://udemy.com" target="_blank" rel="external">Udemy</a></h4><h4 id="Coursera"><a href="#Coursera" class="headerlink" title="Coursera"></a><a href="https://zh-tw.coursera.org" target="_blank" rel="external">Coursera</a></h4><h4 id="30-Days-of-Code"><a href="#30-Days-of-Code" class="headerlink" title="30 Days of Code"></a><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code" target="_blank" rel="external">30 Days of Code</a></h4><h4 id="ShareCourse"><a href="#ShareCourse" class="headerlink" title="ShareCourse"></a><a href="http://www.sharecourse.net/" target="_blank" rel="external">ShareCourse</a></h4><ul>
+<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/848" target="_blank" rel="external">CS01036 2016 網軍大進擊</a></p>
+</li>
+<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/1004" target="_blank" rel="external">CS08008 物聯網基礎架構與應用簡介(2016)</a></p>
+</li>
+</ul>
+<h4 id="edX"><a href="#edX" class="headerlink" title="edX"></a><a href="https://www.edx.org" target="_blank" rel="external">edX</a></h4><ul>
+<li><p><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank" rel="external">CS50 Introduction to Computer Science</a></p>
+</li>
+<li><p><a href="https://courses.edx.org/courses/course-v1:MichiganX+UX501x+3T2016/info" target="_blank" rel="external">UX501x Introduction to User Experience</a></p>
+</li>
+<li><p><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+5T2016/info" target="_blank" rel="external">DAT101x Data Science Orientation</a></p>
+</li>
+<li><p><a href="https://www.edx.org/micromasters/business-analytics" target="_blank" rel="external">Business Analytics</a></p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;教學平台&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Hahow&quot;&gt;&lt;a href=&quot;#Hahow&quot; class=&quot;headerlink&quot; title=&quot;Hahow&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://hahow.in&quot; targe
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo 教學資源</title>
@@ -63,51 +108,6 @@
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://newbieboss.com/2017-e-commerce-seo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;如
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Online Course Plan</title>
-    <link href="http://yoursite.com/2017/03/25/%E7%B6%B2%E8%B7%AF%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86/"/>
-    <id>http://yoursite.com/2017/03/25/網路課程整理/</id>
-    <published>2017-03-24T20:04:31.000Z</published>
-    <updated>2017-03-24T20:04:31.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>教學平台</p>
-</blockquote>
-<h4 id="Hahow"><a href="#Hahow" class="headerlink" title="Hahow"></a><a href="https://hahow.in" target="_blank" rel="external">Hahow</a></h4><pre><code>- [動畫互動網頁程式入門 (HTML/CSS/JS)](https://hahow.in/courses/56189df9df7b3d0b005c6639)
-
-- [不懂設計，也能學會的資訊圖像化密技！ by 圖文不符](https://hahow.in/courses/572be49fd60bb3090091d208)
-
-- [AutoCAD 電腦繪圖2D基礎篇－紮實入門](https://hahow.in/courses/577d9599d0c303070041173a)
-</code></pre><h4 id="Udemy"><a href="#Udemy" class="headerlink" title="Udemy"></a><a href="http://udemy.com" target="_blank" rel="external">Udemy</a></h4><h4 id="Coursera"><a href="#Coursera" class="headerlink" title="Coursera"></a><a href="https://zh-tw.coursera.org" target="_blank" rel="external">Coursera</a></h4><h4 id="30-Days-of-Code"><a href="#30-Days-of-Code" class="headerlink" title="30 Days of Code"></a><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code" target="_blank" rel="external">30 Days of Code</a></h4><h4 id="ShareCourse"><a href="#ShareCourse" class="headerlink" title="ShareCourse"></a><a href="http://www.sharecourse.net/" target="_blank" rel="external">ShareCourse</a></h4><ul>
-<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/848" target="_blank" rel="external">CS01036 2016 網軍大進擊</a></p>
-</li>
-<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/1004" target="_blank" rel="external">CS08008 物聯網基礎架構與應用簡介(2016)</a></p>
-</li>
-</ul>
-<h4 id="edX"><a href="#edX" class="headerlink" title="edX"></a><a href="https://www.edx.org" target="_blank" rel="external">edX</a></h4><ul>
-<li><p><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank" rel="external">CS50 Introduction to Computer Science</a></p>
-</li>
-<li><p><a href="https://courses.edx.org/courses/course-v1:MichiganX+UX501x+3T2016/info" target="_blank" rel="external">UX501x Introduction to User Experience</a></p>
-</li>
-<li><p><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+5T2016/info" target="_blank" rel="external">DAT101x Data Science Orientation</a></p>
-</li>
-<li><p><a href="https://www.edx.org/micromasters/business-analytics" target="_blank" rel="external">Business Analytics</a></p>
-</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;教學平台&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;Hahow&quot;&gt;&lt;a href=&quot;#Hahow&quot; class=&quot;headerlink&quot; title=&quot;Hahow&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://hahow.in&quot; targe
     
     </summary>
     
@@ -330,7 +330,7 @@ _   底線
 <pre><code>[id]: url/to/image  &quot;Optional title attribute&quot;
 </code></pre><p>也可以用普通的img標籤</p>
 <h4 id="自動連結"><a href="#自動連結" class="headerlink" title="自動連結"></a>自動連結</h4><blockquote>
-<p>直接包起來<br>    <a href="http://Sample.com/" target="_blank" rel="external">http://Sample.com/</a><br>    <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#100;&#97;&#x72;&#119;&#x69;&#x6e;&#55;&#51;&#56;&#x31;&#57;&#56;&#x37;&#54;&#53;&#x34;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#x6d;">&#100;&#97;&#x72;&#119;&#x69;&#x6e;&#55;&#51;&#56;&#x31;&#57;&#56;&#x37;&#54;&#53;&#x34;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#x6d;</a></p>
+<p>直接包起來<br>    <a href="http://Sample.com/" target="_blank" rel="external">http://Sample.com/</a><br>    <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#100;&#97;&#x72;&#x77;&#105;&#110;&#x37;&#51;&#56;&#49;&#x39;&#x38;&#55;&#x36;&#53;&#52;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#100;&#97;&#x72;&#x77;&#105;&#110;&#x37;&#51;&#56;&#49;&#x39;&#x38;&#55;&#x36;&#53;&#52;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;</a></p>
 </blockquote>
 <h3 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h3><p>1 <a href="http://markdown.tw" target="_blank" rel="external">Markdown文件</a></p>
 ]]></content>
