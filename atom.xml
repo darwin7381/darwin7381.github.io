@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-24T20:23:15.000Z</updated>
+  <updated>2017-03-26T20:15:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>製作GIF圖檔的好用免費工具</title>
+    <link href="http://yoursite.com/2017/03/27/%E8%A3%BD%E4%BD%9Cgif%E5%9C%96%E6%AA%94%E7%9A%84%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/03/27/製作gif圖檔的工具整理/</id>
+    <published>2017-03-26T20:15:52.000Z</published>
+    <updated>2017-03-26T20:15:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！</p>
+<blockquote>
+<p>什麼是GIF呢？</p>
+</blockquote>
+<p>他正式的名稱是：圖像互換格式（GIF，Graphics Interchange Format）是一種點陣圖圖形檔案格式，以8位元色（即256種顏色）重現真彩色的圖像。它是一種壓縮文件使用LZW壓縮演算法進行編碼，讓圖檔傳得更快。</p>
+<blockquote>
+<p>動態GIF？</p>
+</blockquote>
+<p>圖片動起來了？！？！？！<br>其實不是這樣，動態GIF是由許多包含連續圖像的影格組成，再利用像電影一樣連續替換圖像，我們的眼睛對運動物體的視覺殘留，產生「動起來？！？！」的感覺</p>
+<p>想要了解可以參考<a href="https://zh.wikipedia.org/wiki/GIF" target="_blank" rel="external">維基百科</a>、<a href="https://www.bwcss.edu.hk/gallery/webcontent/ComputerStudyRing/gif_animator.pdf" target="_blank" rel="external">什麼是 GIF?</a><br>裡面有對GIF的技術和壓縮原理有詳細的介紹</p>
+<blockquote>
+<p>說那麼多，我到底要怎麼做</p>
+</blockquote>
+<p>以下為幾個線上的免費ＧＩＦ製作的網站，主要的製作方法可分為兩種：</p>
+<ul>
+<li>將影片轉成動態GIF</li>
+<li>上傳很多很多張圖片把他們拼成一個動態GIF</li>
+</ul>
+<ol>
+<li></li>
+</ol>
+<p>參考來院 : <a href="http://www.playpcesor.com/2015/02/gif-gif10.html" target="_blank" rel="external">免費線上 GIF 動畫製作懶人包：GIF圖還有10種玩法！ 
+</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;什麼是GIF呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他正式的名稱是：圖像互
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Online Course Plan</title>
@@ -333,7 +378,7 @@ _   底線
 <pre><code>[id]: url/to/image  &quot;Optional title attribute&quot;
 </code></pre><p>也可以用普通的img標籤</p>
 <h4 id="自動連結"><a href="#自動連結" class="headerlink" title="自動連結"></a>自動連結</h4><blockquote>
-<p>直接包起來<br>    <a href="http://Sample.com/" target="_blank" rel="external">http://Sample.com/</a><br>    <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#100;&#97;&#x72;&#x77;&#105;&#110;&#x37;&#51;&#56;&#49;&#x39;&#x38;&#55;&#x36;&#53;&#52;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#100;&#97;&#x72;&#x77;&#105;&#110;&#x37;&#51;&#56;&#49;&#x39;&#x38;&#55;&#x36;&#53;&#52;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;</a></p>
+<p>直接包起來<br>    <a href="http://Sample.com/" target="_blank" rel="external">http://Sample.com/</a><br>    <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#100;&#97;&#x72;&#x77;&#105;&#x6e;&#x37;&#51;&#56;&#x31;&#x39;&#x38;&#x37;&#x36;&#x35;&#x34;&#64;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#100;&#97;&#x72;&#x77;&#105;&#x6e;&#x37;&#51;&#56;&#x31;&#x39;&#x38;&#x37;&#x36;&#x35;&#x34;&#64;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;</a></p>
 </blockquote>
 <h3 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h3><p>1 <a href="http://markdown.tw" target="_blank" rel="external">Markdown文件</a></p>
 ]]></content>
