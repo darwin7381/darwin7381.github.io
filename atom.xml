@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-29T20:23:03.000Z</updated>
+  <updated>2017-06-07T18:29:07.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,144 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Flexbox 教學篇 - flex-direction</title>
-    <link href="http://yoursite.com/2017/03/30/Flexbox-flex-direction/"/>
-    <id>http://yoursite.com/2017/03/30/Flexbox-flex-direction/</id>
-    <published>2017-03-29T20:23:03.000Z</published>
-    <updated>2017-03-29T20:23:03.000Z</updated>
+    <title>加密貨幣 - 幣種介紹</title>
+    <link href="http://yoursite.com/2017/06/08/cryptocoin-Coin-Introduce/"/>
+    <id>http://yoursite.com/2017/06/08/cryptocoin-Coin-Introduce/</id>
+    <published>2017-06-07T18:29:07.000Z</published>
+    <updated>2017-06-07T18:29:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Bitcoin-BTC"><a href="#Bitcoin-BTC" class="headerlink" title="Bitcoin (BTC)"></a>Bitcoin (BTC)</h3><p>名稱：比特幣、巴特幣<br>起始：2009年1月3日<br>用途：交易支付貨幣<br>數量：每四年減半，2140年，總量接近2100萬<br>技術：PoW共識演算法、SHA-256加密算法、C++<br>區塊時間：10分鐘<br>敘述<br>利用加密數位簽章和區塊鏈價值體系，解決信任問題、一幣多付以及跨境支付等問題</p>
+<p>Link : <a href="https://blockchain.info" target="_blank" rel="external">BlockChain</a>、<a href="https://bitcointalk.org" target="_blank" rel="external">Forum</a>、<a href="http://forum.bitcoin-tw.com" target="_blank" rel="external">比特台灣論壇</a>、<a href="https://www.cryptocompare.com/coins/btc/overview/USD" target="_blank" rel="external">CryptoCompare</a>、<a href="https://www.worldcoinindex.com/coin/bitcoin" target="_blank" rel="external">WorldCoinIndex</a><br><a href="https://www.bfxdata.com/positions/btcusd" target="_blank" rel="external">BFXDATA</a>、</p>
+<p>Others : <a href="https://bitcointalk.org/index.php?topic=137.0" target="_blank" rel="external">比特幣pizza朝聖</a></p>
+<h3 id="Litecoin-LTC"><a href="#Litecoin-LTC" class="headerlink" title="Litecoin (LTC)"></a>Litecoin (LTC)</h3><p>名稱：萊特幣<br>起始：2011年10月7日<br>用途：交易支付貨幣<br>數量：每四年（每840,000個塊）減少一半，最終達到總量8400萬個LTC<br>技術：PoW共識演算法、Scrypt加密算法、C++<br>區塊時間：2.5分鐘</p>
+<p>開源的P2P數位貨幣，為比特幣的升級版、交易速度較比特幣快，總量約四倍、挖礦更容易</p>
+<p>Link : <a href="https://litecoin.com/#page-top" target="_blank" rel="external">Website</a>、<a href="https://litecointalk.io" target="_blank" rel="external">Forum</a>、<a href="https://www.bfxdata.com/positions/ltcusd" target="_blank" rel="external">BFXDATA</a>、</p>
+<h3 id="Ethereum-ETH"><a href="#Ethereum-ETH" class="headerlink" title="Ethereum (ETH)"></a>Ethereum (ETH)</h3><p>名稱：以太坊<br>發行：2014年<br>用途：去中心化智能合約平台<br>數量：每年不變的數量發行預售以太幣總量的0.3倍<br>技術：PoW共識算法、Ethash算法、GO語言<br>區塊時間：16秒</p>
+<p>重視區塊鏈的應用層面， 提供各式區塊鏈應用的建立，讓人在上面建立應用，使用以太幣（Ether）交易運算資源</p>
+<p>Link : <a href="https://www.ethereum.org" target="_blank" rel="external">Website</a>、<a href="https://www.reddit.com/r/ethereum/" target="_blank" rel="external">Reddit</a>、<a href="https://forum.ethereum.org" target="_blank" rel="external">Forum</a>、<a href="https://zh.wikipedia.org/wiki/以太坊" target="_blank" rel="external">Wiki</a><a href="https://bfxdata.com/orderbooks/ethusd" target="_blank" rel="external">BFXDATA</a></p>
+<p>Others : <a href="https://hackmd.io/KwRgDAzAHMBsAsBaAZgJgOy0fKZmICNgATMRAU2GDBHIGN5yBOKAQyA=?both" target="_blank" rel="external">安裝 Ethereum 開發環境</a></p>
+<h3 id="Ethereum-Classic"><a href="#Ethereum-Classic" class="headerlink" title="Ethereum Classic"></a>Ethereum Classic</h3><p>名稱：以太坊經典<br>起始：2016年6月</p>
+<p>因以太坊旗下的去中心化自治組織 The DAO被駭5000萬美元價值之以太幣，以太坊進行第三次分叉，部分人繼續維護原有區塊而產生</p>
+<p>Link : <a href="https://ethereumclassic.github.io" target="_blank" rel="external">Github</a>、<a href="https://www.cryptocompare.com/coins/etc/overview/USD" target="_blank" rel="external">CryptoCompare</a></p>
+<p>Others : <a href="http://www.haixiaba.com/n586009.html" target="_blank" rel="external">深入解析：以太坊與以太坊經典</a></p>
+<h3 id="Nxt-NXT"><a href="#Nxt-NXT" class="headerlink" title="Nxt (NXT)"></a>Nxt (NXT)</h3><p>名稱：未來幣<br>起始：2013年11月24日<br>用途：<a href="https://nxt.org/what-is-nxt/" target="_blank" rel="external">很多</a><br>數量：10億（以發行完畢）<br>技術：透明鍛造(transparent forging)、股權證明（Proof of Stake）機制、JAVA<br>區塊時間：60秒</p>
+<p>不同於比特幣，是全新設計和開發的第二代幣，100%PoS機制，不透過挖礦產生貨幣，使用現有帳戶的餘額去「鍛造」區塊並產生交易費用獎勵。<br>透過PoS的優勢，使之能在智慧型手機或 Raspberry Pi 上運行，節省能源且去除51%攻擊的風險</p>
+<p>Link : <a href="https://nxt.org" target="_blank" rel="external">Website</a>、<a href="http://www.baike.com/wiki/未来币" target="_blank" rel="external">互動百科</a>、<a href="https://nxtforum.org" target="_blank" rel="external">Forum</a>、<a href="https://en.wikipedia.org/wiki/Nxt" target="_blank" rel="external">Wiki</a>、<a href="https://www.reddit.com/r/NXT/" target="_blank" rel="external">Reddit</a></p>
+<p>Others : <a href="https://www.sosobtc.com/article/10692.html" target="_blank" rel="external">NXT-未来幣</a></p>
+<h3 id="Zcash-ZEC"><a href="#Zcash-ZEC" class="headerlink" title="Zcash (ZEC)"></a>Zcash (ZEC)</h3><p>名稱：Zerocash<br>起始：2014年<br>數量：每四年減半，約2100萬，（有創始人獎勵、慢慢開始挖礦機制）<br>用途：交易支付貨幣<br>技術：零知識證明（zk-SNARK）技術驗證交易</p>
+<p>真正完全匿名的交易貨幣，為比特幣分支之一，更注重隱私，自動隱藏區塊鏈上交易數據，用戶有完全掌控權，擁有者能決定提供查看密鑰</p>
+<p><a href="https://z.cash" target="_blank" rel="external">Website</a>、<a href="https://forum.z.cash" target="_blank" rel="external">Forum</a>、<a href="https://www.reddit.com/r/zec/" target="_blank" rel="external">Reddit</a>、<a href="https://www.worldcoinindex.com/coin/zcash" target="_blank" rel="external">WorldCoinIndex</a>、<a href="http://www.baike.com/wiki/zcash&amp;prd=so_1_doc" target="_blank" rel="external">互動百科</a></p>
+<p>Reports：<a href="https://technews.tw/2016/11/01/zcash/" target="_blank" rel="external">號稱終極匿名的數位貨幣 ZCash 強勢發表，它究竟有什麼好處？</a></p>
+<h3 id="BitShares-BTS"><a href="#BitShares-BTS" class="headerlink" title="BitShares (BTS)"></a>BitShares (BTS)</h3><p>名稱：比特股<br>起始：<br>用途：<br>數量：37億<br>技術：DPoS演算法、<br>區塊時間：3秒</p>
+<p>比特股技術，核心帳本採用石墨稀技術，符號為BTS，預挖礦方式發布(初始的比特股BTS由兩部分組成，一部分由PTS持有者轉股而來，另一部分由挖掘產生，並且整套系統還在不斷的為持有BTS的投資者分紅)，比特股通過定期出售分發初始貨幣，Counterparty利用燒毀證明（POB）發行貨幣，BTS除了作為交易費用和激勵機制外，也是資產交易的重要抵押物。區塊時間3秒，開發語言C++。</p>
+<p>Link : <a href="https://bitshares.org" target="_blank" rel="external">Website</a>、<a href="https://www.reddit.com/r/BitShares/" target="_blank" rel="external">Reddit</a>、<a href="https://bitsharestalk.org" target="_blank" rel="external">Forum</a>、<a href="https://www.worldcoinindex.com/coin/bitshares" target="_blank" rel="external">WorldCoinIndex</a></p>
+<h3 id="NEM"><a href="#NEM" class="headerlink" title="NEM"></a>NEM</h3><p><a href="https://www.nem.io" target="_blank" rel="external">Website</a></p>
+<h3 id="FujiCoin"><a href="#FujiCoin" class="headerlink" title="FujiCoin"></a>FujiCoin</h3><p><a href="http://www.fujicoin.org" target="_blank" rel="external">Website</a></p>
+<h3 id="Humaniq"><a href="#Humaniq" class="headerlink" title="Humaniq"></a>Humaniq</h3><p><a href="https://humaniq.co" target="_blank" rel="external">Website</a></p>
+<h3 id="Dash"><a href="#Dash" class="headerlink" title="Dash"></a>Dash</h3><p><a href="https://www.dash.org" target="_blank" rel="external">Website</a></p>
+<h3 id="Dogecoin"><a href="#Dogecoin" class="headerlink" title="Dogecoin"></a>Dogecoin</h3><p><a href="http://dogecoin.com" target="_blank" rel="external">Website</a></p>
+<h3 id="Siacoin"><a href="#Siacoin" class="headerlink" title="Siacoin"></a>Siacoin</h3><p><a href="http://sia.tech" target="_blank" rel="external">Website</a> <a href="https://www.reddit.com/r/siacoin/" target="_blank" rel="external">Reddit</a></p>
+<h3 id="Qtum"><a href="#Qtum" class="headerlink" title="Qtum"></a>Qtum</h3><p><a href="https://www.qtum.org/en/" target="_blank" rel="external">Website</a></p>
+<h2 id="Tech-Information"><a href="#Tech-Information" class="headerlink" title="Tech Information"></a>Tech Information</h2><ul>
+<li><a href="https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF" target="_blank" rel="external">Blockchain for dummies by IBM</a></li>
+</ul>
+<p>Reference：<a href="https://read01.com/5gkMm2.html" target="_blank" rel="external">read01</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Bitcoin-BTC&quot;&gt;&lt;a href=&quot;#Bitcoin-BTC&quot; class=&quot;headerlink&quot; title=&quot;Bitcoin (BTC)&quot;&gt;&lt;/a&gt;Bitcoin (BTC)&lt;/h3&gt;&lt;p&gt;名稱：比特幣、巴特幣&lt;br&gt;起始：2009年1月3日&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>數位貨幣資訊整理</title>
+    <link href="http://yoursite.com/2017/06/07/digital-coin-information/"/>
+    <id>http://yoursite.com/2017/06/07/digital-coin-information/</id>
+    <published>2017-06-07T12:39:53.000Z</published>
+    <updated>2017-06-07T12:39:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Social"><a href="#Social" class="headerlink" title="Social"></a>Social</h2><h2 id="Media"><a href="#Media" class="headerlink" title="Media"></a>Media</h2><ul>
+<li><a href="https://bitcle.org/news/1374" target="_blank" rel="external">幣圈新聞</a></li>
+<li><a href="http://blockcast.it" target="_blank" rel="external">區塊客 blockcast.it</a></li>
+</ul>
+<h2 id="Pages"><a href="#Pages" class="headerlink" title="Pages"></a>Pages</h2><ul>
+<li><a href="https://www.facebook.com/bitcle.org/" target="_blank" rel="external">BCN 幣圈新聞</a></li>
+<li><a href="https://www.facebook.com/blockcast.it/" target="_blank" rel="external">區塊客 blockcast.it</a></li>
+</ul>
+<h2 id="Community"><a href="#Community" class="headerlink" title="Community"></a>Community</h2><ul>
+<li><a href="https://www.reddit.com/" target="_blank" rel="external">Reddit</a></li>
+<li><a href="https://github.com/EtherTW/Taipei-Ethereum-Wiki/wiki" target="_blank" rel="external">Taipei Ethereum Meetup</a></li>
+</ul>
+<h2 id="Forum"><a href="#Forum" class="headerlink" title="Forum"></a>Forum</h2><ul>
+<li><a href="http://cryptocurrency.tw/index.php?sid=78783db0d14f0c641823b66c207b0472" target="_blank" rel="external">數位貨幣論壇</a><h2 id="Others"><a href="#Others" class="headerlink" title="Others"></a>Others</h2></li>
+<li><a href="http://ezs.no-ip.org/bitnew/main/index/4" target="_blank" rel="external">小毛 - 幣新聞</a></li>
+</ul>
+<h2 id="Cryptocoin"><a href="#Cryptocoin" class="headerlink" title="Cryptocoin"></a>Cryptocoin</h2><h4 id="Ethereum"><a href="#Ethereum" class="headerlink" title="Ethereum"></a>Ethereum</h4><p><a href="https://www.ethereum.org" target="_blank" rel="external">Website</a>、<a href="https://www.reddit.com/r/ethereum/" target="_blank" rel="external">Reddit</a></p>
+<h4 id="Ethereum-Classic"><a href="#Ethereum-Classic" class="headerlink" title="Ethereum Classic"></a>Ethereum Classic</h4><p><a href="https://ethereumclassic.github.io" target="_blank" rel="external">Github</a></p>
+<h4 id="Zcash"><a href="#Zcash" class="headerlink" title="Zcash"></a>Zcash</h4><p><a href="https://z.cash" target="_blank" rel="external">Website</a><br>    Reports：<a href="https://technews.tw/2016/11/01/zcash/" target="_blank" rel="external">號稱終極匿名的數位貨幣 ZCash 強勢發表，它究竟有什麼好處？</a></p>
+<h4 id="NEM"><a href="#NEM" class="headerlink" title="NEM"></a>NEM</h4><p><a href="https://www.nem.io" target="_blank" rel="external">Website</a></p>
+<h4 id="FujiCoin"><a href="#FujiCoin" class="headerlink" title="FujiCoin"></a>FujiCoin</h4><p><a href="http://www.fujicoin.org" target="_blank" rel="external">Website</a></p>
+<h4 id="Humaniq"><a href="#Humaniq" class="headerlink" title="Humaniq"></a>Humaniq</h4><p><a href="https://humaniq.co" target="_blank" rel="external">Website</a></p>
+<h4 id="Dash"><a href="#Dash" class="headerlink" title="Dash"></a>Dash</h4><p><a href="https://www.dash.org" target="_blank" rel="external">Website</a></p>
+<h4 id="Dogecoin"><a href="#Dogecoin" class="headerlink" title="Dogecoin"></a>Dogecoin</h4><p><a href="http://dogecoin.com" target="_blank" rel="external">Website</a></p>
+<h4 id="Siacoin"><a href="#Siacoin" class="headerlink" title="Siacoin"></a>Siacoin</h4><p><a href="http://sia.tech" target="_blank" rel="external">Website</a> <a href="https://www.reddit.com/r/siacoin/" target="_blank" rel="external">Reddit</a></p>
+<h4 id="Qtum"><a href="#Qtum" class="headerlink" title="Qtum"></a>Qtum</h4><p><a href="https://www.qtum.org/en/" target="_blank" rel="external">Website</a></p>
+<h2 id="Tech-Information"><a href="#Tech-Information" class="headerlink" title="Tech Information"></a>Tech Information</h2><ul>
+<li><a href="https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF" target="_blank" rel="external">Blockchain for dummies by IBM</a></li>
+</ul>
+<p>USDT<br><img src="http://imgur.com/H4nayCj.jpg" alt="cryptocurrency USDT exchange"><br>XMR<br><img src="http://imgur.com/YkbDPtS.jpg" alt="cryptocurrency XMR exchange"><br>ETH<br><img src="http://imgur.com/jjdHQz8.jpg" alt="cryptocurrency ETH exchange"><br>BTC<br><img src="http://imgur.com/vQsYn1b.jpg" alt="cryptocurrency BTC exchange"><br><img src="http://imgur.com/xLiepdV.jpg" alt="cryptocurrency BTC exchange"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Social&quot;&gt;&lt;a href=&quot;#Social&quot; class=&quot;headerlink&quot; title=&quot;Social&quot;&gt;&lt;/a&gt;Social&lt;/h2&gt;&lt;h2 id=&quot;Media&quot;&gt;&lt;a href=&quot;#Media&quot; class=&quot;headerlink&quot; title=
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>數位貨幣整體市場狀況</title>
+    <link href="http://yoursite.com/2017/06/02/Cryptocoin-Market-Overview-1/"/>
+    <id>http://yoursite.com/2017/06/02/Cryptocoin-Market-Overview-1/</id>
+    <published>2017-06-02T11:49:04.000Z</published>
+    <updated>2017-06-02T11:49:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="整體價值"><a href="#整體價值" class="headerlink" title="整體價值"></a>整體價值</h3><ul>
+<li><p><a href="http://coinmarketcap.com/charts/" target="_blank" rel="external">市值概況 Total Market Capitalization</a></p>
+<p> 全世界虛擬貨幣市值價值與比重，以比特幣為主，包含：</p>
+<ol>
+<li>Total Market Capitalization</li>
+<li>Total Market Capitalization (Excluding Bitcoin)</li>
+<li>Percentage of Total Market Capitalization (Dominance)</li>
+</ol>
+</li>
+<li><p><a href="https://www.bfxdata.com/positions/btcusd" target="_blank" rel="external">BFX positions</a></p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;整體價值&quot;&gt;&lt;a href=&quot;#整體價值&quot; class=&quot;headerlink&quot; title=&quot;整體價值&quot;&gt;&lt;/a&gt;整體價值&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://coinmarketcap.com/charts/&quot; target=&quot;_b
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Flexbox 教學篇(1) - flex-direction</title>
+    <link href="http://yoursite.com/2017/04/22/Flexbox-flex-direction/"/>
+    <id>http://yoursite.com/2017/04/22/Flexbox-flex-direction/</id>
+    <published>2017-04-21T16:42:16.000Z</published>
+    <updated>2017-04-21T16:42:16.000Z</updated>
     
     <content type="html"><![CDATA[<p>flex-direction為決定div排列方式的屬性，最基本的有四種方式</p>
 <ul>
@@ -32,6 +165,7 @@
 <blockquote>
 <p>Row</p>
 </blockquote>
+<a id="more"></a>
 <p><strong>敘述</strong>：row 在英文中的意思是行，也就是橫的水平排列，而此屬性也是最直觀的由左開始排列<br><strong>效果</strong>：由左而右水平排列<br><strong>範例</strong></p>
 <pre><code>flex-direction: row
 </code></pre><p>（成果）</p>
@@ -65,7 +199,8 @@
 &lt;li&gt;column&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ro
+&lt;p&gt;Row&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -75,260 +210,28 @@
   </entry>
   
   <entry>
-    <title>To Read List</title>
-    <link href="http://yoursite.com/2017/03/28/TRL/"/>
-    <id>http://yoursite.com/2017/03/28/TRL/</id>
-    <published>2017-03-27T19:21:11.000Z</published>
-    <updated>2017-03-27T19:21:11.000Z</updated>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/04/13/hello-world/"/>
+    <id>http://yoursite.com/2017/04/13/hello-world/</id>
+    <published>2017-04-12T18:42:02.000Z</published>
+    <updated>2017-04-12T18:42:02.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote>
-<p>Frout-End</p>
-</blockquote>
-<ul>
-<li><a href="https://dotblogs.com.tw/wellwind/2016/12/21/front-end-fullcalendar" target="_blank" rel="external">[前端軍火庫]FullCalendar - 輕鬆完成專業級行事曆</a></li>
-<li><a href="http://kimix.name/preload-images-預載圖片/" target="_blank" rel="external">Preload images 預載圖片</a></li>
-<li><a href="https://sofree.cc/lazy-load/" target="_blank" rel="external">Lazy Load 延遲圖片載入，讓網站更順暢</a></li>
-<li><a href="https://css-tricks.com/snippets/jquery/smooth-scrolling/" target="_blank" rel="external">Smooth Scrolling</a>  CSS-Tricks</li>
-<li><a href="http://muki.tw/tech/css-flexbox/" target="_blank" rel="external">CSS Flexbox 介紹與解析</a></li>
-</ul>
-<blockquote>
-<p>IoT</p>
-</blockquote>
-<ul>
-<li><a href="https://fossbytes.com/zero-terminal-tiny-linux-raspberry-pi-computer/" target="_blank" rel="external">Zero Terminal: A Tiny Linux PC That You Can Build Using Raspberry Pi And Smartphone Keyboard</a></li>
-</ul>
-<blockquote>
-<p>VueJS</p>
-</blockquote>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=7ZjNQ92Pl3c&amp;list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O&amp;index=4" target="_blank" rel="external">Using V-Bind Directive - Vue.js 2.0 Fundamentals (Part 4)</a></li>
-<li><a href="https://vuejs.org/v2/guide/list.html#v-for" target="_blank" rel="external">List Rendering</a></li>
-<li><a href="https://cn.vuejs.org/v2/guide/#Vue-js-是什么" target="_blank" rel="external">介绍 - Vue.js</a></li>
-</ul>
-<blockquote>
-<p>WP Development</p>
-</blockquote>
-<ul>
-<li><a href="https://theme-fusion.com/local-wordpress-installation-mac/" target="_blank" rel="external">How to Set Up a Local WordPress Installation on Your Mac</a></li>
-<li><a href="https://sofree.cc/wp-gzip/" target="_blank" rel="external">不用外掛，直接啟動WordPress的Gzip網頁壓縮</a></li>
-<li><a href="https://free.com.tw/eight-useful-code-snippets-for-wordpress/" target="_blank" rel="external">8 個實用的 WordPress 程式碼（Code Snippets）</a></li>
-<li><a href="https://sofun.tw/wordpress-optimization/" target="_blank" rel="external">WordPress 優化重點、技巧項目</a></li>
-</ul>
-<blockquote>
-<p>ChatBot</p>
-</blockquote>
-<ul>
-<li><a href="https://www.zhihu.com/question/28283196" target="_blank" rel="external">如何制作一个聊天机器人？</a></li>
-</ul>
-<blockquote>
-<p>GIT</p>
-</blockquote>
-<ul>
-<li><a href="https://blog.othree.net/log/2017/03/25/gitdags-git/" target="_blank" rel="external">Gitdags, Git 示意圖工具</a></li>
-<li><a href="http://gitreal.codeschool.com/levels/1/challenges/2" target="_blank" rel="external"> Code School - Git Real </a></li>
-</ul>
-<blockquote>
-<p>Data</p>
-</blockquote>
-<ul>
-<li><a href="https://www.stockfeel.com.tw/從儲存、挖掘到溝通，引領產業新面貌：大數據big-data/" target="_blank" rel="external">從儲存、挖掘到溝通，引領產業新面貌：大數據(Big Data)</a></li>
-<li><a href="https://buzzorange.com/techorange/2017/03/21/data-science-book/" target="_blank" rel="external">【免費自修資源】精選 8 本資料科學經典書單，讓你自學也能變大師</a></li>
-<li><a href="http://www.smalljacky.com/programming-language/php/ajax-javascript-jquery-example-for-php/" target="_blank" rel="external">Ajax JavaScript 與 jQuery 教學範例 for PHP</a></li>
-</ul>
-<blockquote>
-<p>JS</p>
-</blockquote>
-<ul>
-<li><a href="http://javascript.ruanyifeng.com" target="_blank" rel="external">JavaScript 标准参考教程（alpha）</a></li>
-<li><a href="http://ithelp.ithome.com.tw/articles/10161556" target="_blank" rel="external">Node.js 系列學習日誌 #29 - 部署上線至 Heroku 雲端平台環境</a></li>
-<li><a href="http://wiki.jikexueyuan.com/project/nodejs-guide/" target="_blank" rel="external">七天学会 NodeJS</a></li>
-<li><a href="http://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx" target="_blank" rel="external">前端工程師必須學會的現代化前端開發工具</a></li>
-<li><a href="http://callbackhell.com" target="_blank" rel="external">Callback Hell</a></li>
-<li><a href="http://larry850806.github.io/2016/06/01/async2/" target="_blank" rel="external">[Javascript] 如何用 async 控制流程 (二)</a></li>
-<li><a href="http://dreamerslab.com/blog/tw/node-js-basics/" target="_blank" rel="external">node.js 基本教學</a>  (Module教學)</li>
-<li><a href="http://ball.logdown.com/posts/199525-super-annoying-nodejs-study-notes-async" target="_blank" rel="external">Nodejs學習筆記 -超煩人的Async</a></li>
-<li><a href="http://book.mixu.net/node/ch7.html" target="_blank" rel="external">7. Control flow</a>  Mixu’s Node book</li>
-<li><a href="https://nodejust.com/nodejs-mongodb-read-data/" target="_blank" rel="external">Node.js學習筆記 12：MongoDB的操作－讀取資料庫裡的資料</a></li>
-<li><a href="https://www.youtube.com/watch?v=MhkGQAoc7bc&amp;list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b" target="_blank" rel="external">REACT JS TUTORIAL #1 - Reactjs Javascript Introduction &amp; Workspace Setup</a></li>
-<li><a href="http://fred-zone.blogspot.tw/2017/02/nodejs-protocol-buffers.html" target="_blank" rel="external">Node.js 也可以使用 Protocol Buffers！</a></li>
-<li><a href="https://blog.risingstack.com/node-js-database-tutorial/" target="_blank" rel="external">Node Hero - Node.js Database Tutorial</a></li>
-</ul>
-<ul>
-<li>Dev. Outline<br><img src="http://i.imgur.com/4Ru1pu1.png" style="width: 60%" title="Outline"></li>
-</ul>
-<blockquote>
-<p>Development Tools</p>
-</blockquote>
-<ul>
-<li><a href="https://www.barryblogs.com/sublime-text-ftp-sftp-remotefilesync/" target="_blank" rel="external">Sublime Text FTP/SFTP 遠端檔案同步</a></li>
-<li><a href="https://single9.gitbooks.io/nkfust-bonescript/content/cloud_9/basic_usage.html" target="_blank" rel="external">基本操作 | Beaglebone Black 課程講義</a></li>
-</ul>
-<blockquote>
-<p>Data Visualization</p>
-</blockquote>
-<ul>
-<li><a href="https://datatables.net/forums/discussion/38969" target="_blank" rel="external">Reload/refresh table after event</a></li>
-<li><a href="http://yhhuang1966.blogspot.tw/2013/05/jquery-datatable.html" target="_blank" rel="external">jQuery 套件 DataTables 的測試</a></li>
-<li><a href="https://jsfiddle.net/chanonroy/9xrb0vhe/" target="_blank" rel="external">Chart.js v2 stacked bar chart - JSFiddle</a></li>
-<li><a href="http://echarts.baidu.com/demo.html#effectScatter-bmap" target="_blank" rel="external">ECharts Examples</a></li>
-<li><a href="https://jsfiddle.net/red_stapler/u5aanta8/1/" target="_blank" rel="external">chart.js line 2.0 - JSFiddle</a></li>
-<li><a href="http://www.chartjs.org/docs/" target="_blank" rel="external">Chart.js API Documentation</a></li>
-<li><a href="http://www.bootcss.com/p/chart.js/docs/" target="_blank" rel="external">Chart.js 中文文档</a></li>
-</ul>
-<blockquote>
-<p>MindSeta</p>
-</blockquote>
-<ul>
-<li><a href="https://medium.com/@wilsonhuang/the-effective-engineer-翻譯筆記-optimize-for-learning-part-1-2c8453a9e9df#.lr43ib2zu" target="_blank" rel="external">[The Effective Engineer 翻譯筆記] Optimize for Learning, Part 1</a></li>
-</ul>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;Frout-End&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://dotblogs.com.tw/wellwind/2016/12/21/front-end-fullcalendar&quot; target=&quot;_b
-    
-    </summary>
-    
-      <category term="TRL" scheme="http://yoursite.com/categories/TRL/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>To Read List (Design)</title>
-    <link href="http://yoursite.com/2017/03/28/TRL-Design/"/>
-    <id>http://yoursite.com/2017/03/28/TRL-Design/</id>
-    <published>2017-03-27T19:12:36.000Z</published>
-    <updated>2017-03-27T19:12:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>UX</p>
-</blockquote>
-<ul>
-<li><a href="https://hardcorethinking.wordpress.com/2017/03/20/dtc-01/#more-1788" target="_blank" rel="external">[D./DTC] 01: Living with Complexity by Don Norman</a>        (用戶體驗（UX, User Experience）)</li>
-</ul>
-<blockquote>
-<p>Animation</p>
-</blockquote>
-<p><a href="https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.v6baxi14l" target="_blank" rel="external">Introducing Lottie</a><br><a href="http://loading.io" target="_blank" rel="external">loading.io</a><br><a href="https://github.com/yutin1987/react-native-loading-cat" target="_blank" rel="external">react-native-loading-cat</a></p>
-<blockquote>
-<p>CSS</p>
-</blockquote>
-<p><a href="https://scotch.io/tag/css" target="_blank" rel="external">Tag Archive for “css” | Scotch</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;UX&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://hardcorethinking.wordpress.com/2017/03/20/dtc-01/#more-1788&quot; target=&quot;_blank&quot; 
-    
-    </summary>
-    
-      <category term="TRL" scheme="http://yoursite.com/categories/TRL/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>To Read List (Marketing)</title>
-    <link href="http://yoursite.com/2017/03/28/TRL-Marketing/"/>
-    <id>http://yoursite.com/2017/03/28/TRL-Marketing/</id>
-    <published>2017-03-27T19:02:46.000Z</published>
-    <updated>2017-03-27T19:02:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>SEO</p>
-</blockquote>
-<ul>
-<li><a href="http://www.dgcovery.com/2017/02/23/seo-optimization-strategy/" target="_blank" rel="external">優化SEO有訣竅！6招拉高網購流量讓你訂單接到手軟</a></li>
-<li><a href="https://newbieboss.com/2017-e-commerce-seo-guide/" target="_blank" rel="external">如何優化購物網站的SEO，馬上免費增加流量，提升營業額 [2017最新]</a></li>
-</ul>
-<blockquote>
-<p>GA</p>
-</blockquote>
-<ul>
-<li><a href="https://blog.dcplus.com.tw/tools/tools-for-dummies/32958" target="_blank" rel="external">全世界最懶的 GA 懶人包 ─ 第三方工具整合篇</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;SEO&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.dgcovery.com/2017/02/23/seo-optimization-strategy/&quot; target=&quot;_blank&quot; rel=&quot;
-    
-    </summary>
-    
-      <category term="TRL" scheme="http://yoursite.com/categories/TRL/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Bug Fixing Records</title>
-    <link href="http://yoursite.com/2017/03/28/Bug-Fixing-Records/"/>
-    <id>http://yoursite.com/2017/03/28/Bug-Fixing-Records/</id>
-    <published>2017-03-27T18:52:05.000Z</published>
-    <updated>2017-03-27T18:52:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>Node</p>
-</blockquote>
-<ul>
-<li><a href="https://gist.github.com/DanHerbert/9520689" target="_blank" rel="external">Fixing npm On Mac OS X for Homebrew Users</a><pre><code>export PATH=&quot;$HOME/.npm-packages/bin:$PATH&quot;
-</code></pre></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;Node&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://gist.github.com/DanHerbert/9520689&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fixing n
-    
-    </summary>
-    
-      <category term="Development" scheme="http://yoursite.com/categories/Development/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>看盤軟體</title>
-    <link href="http://yoursite.com/2017/03/28/%E7%9C%8B%E7%9B%A4%E8%BB%9F%E9%AB%94%E6%95%B4%E7%90%86/"/>
-    <id>http://yoursite.com/2017/03/28/看盤軟體整理/</id>
-    <published>2017-03-27T17:17:11.000Z</published>
-    <updated>2017-03-27T17:17:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>想要有好的投資績效，市場行情的快速掌握是絕對是非常關鍵的，以下為各種好用的各種金融看盤軟體整理喔</p>
-<blockquote>
-<p>Future</p>
-</blockquote>
-<ul>
-<li><a href="https://yunbi.com" target="_blank" rel="external">雲幣網</a></li>
-</ul>
-<p><strong>國籍</strong>：China<br><strong>標的</strong>：各式新興的加密貨幣<br><strong>LIST</strong>：BTC, ETH, ZEC, DGD, 1SŦ, REP, SC, ZMC, GNT, BTS, ANS, ETC<br><strong>簡介</strong>：<br>由於雲幣網為交易平台，因此各種資訊是非常充足的，舉凡K線、KD值、成交量、MACD、即時委買委賣量皆一目瞭然，你也可以直接在平台下單</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;想要有好的投資績效，市場行情的快速掌握是絕對是非常關鍵的，以下為各種好用的各種金融看盤軟體整理喔&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Future&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://yunbi.com&quot; target
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
@@ -336,189 +239,42 @@
   </entry>
   
   <entry>
-    <title>製作GIF圖檔的好用免費工具</title>
-    <link href="http://yoursite.com/2017/03/27/%E8%A3%BD%E4%BD%9Cgif%E5%9C%96%E6%AA%94%E7%9A%84%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/"/>
-    <id>http://yoursite.com/2017/03/27/製作gif圖檔的工具整理/</id>
-    <published>2017-03-27T15:27:11.000Z</published>
-    <updated>2017-03-27T15:27:11.000Z</updated>
+    <title>Hexo新手入門</title>
+    <link href="http://yoursite.com/2017/04/13/Hexo%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80/"/>
+    <id>http://yoursite.com/2017/04/13/Hexo新手入門/</id>
+    <published>2017-04-12T18:41:46.000Z</published>
+    <updated>2017-04-12T18:41:46.000Z</updated>
     
-    <content type="html"><![CDATA[<p>今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！</p>
-<p>以下是關於GIF的小小筆記</p>
-<blockquote>
-<p>什麼是GIF呢？</p>
-</blockquote>
-<p>他正式的名稱是：圖像互換格式（GIF，Graphics Interchange Format）是一種點陣圖圖形檔案格式，以8位元色（即256種顏色）重現真彩色的圖像。它是一種壓縮文件使用LZW壓縮演算法進行編碼，讓圖檔傳得更快。</p>
-<blockquote>
-<p>動態GIF？</p>
-</blockquote>
-<p>圖片動起來了？！？！？！<br>其實不是這樣，動態GIF是由許多包含連續圖像的影格組成，再利用像電影一樣連續替換圖像，我們的眼睛對運動物體的視覺殘留，產生「動起來？！？！」的感覺</p>
-<p>想要了解可以參考<a href="https://zh.wikipedia.org/wiki/GIF" target="_blank" rel="external">維基百科</a>、<a href="https://www.bwcss.edu.hk/gallery/webcontent/ComputerStudyRing/gif_animator.pdf" target="_blank" rel="external">什麼是 GIF?</a><br>裡面有對GIF的技術和壓縮原理有詳細的介紹</p>
-<blockquote>
-<p>說了那麼多，我到底要怎麼做</p>
-</blockquote>
-<p>以下為幾個線上的免費ＧＩＦ製作的網站，主要的製作方法可分為兩種：</p>
-<ul>
-<li>將影片轉成動態GIF</li>
-<li>上傳很多很多張圖片把他們拼成一個動態GIF</li>
-</ul>
-<h4 id="1-Imgur-Video-to-GIF"><a href="#1-Imgur-Video-to-GIF" class="headerlink" title="1. Imgur: Video to GIF"></a>1. <a href="http://imgur.com/vidgif" target="_blank" rel="external">Imgur: Video to GIF</a></h4><p><strong>特色：</strong>輕鬆將影片轉成GIF動畫，可直接儲存在Imgur帳號中，分享和保存變得非常方便<br><strong>功能：</strong>將影片轉換成動態GIF圖檔</p>
-<h5 id="小介紹："><a href="#小介紹：" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Imgur: Video to GIF是由Imgur公司推出，介面簡潔好看，使用起來也非常直覺好用</p>
-<p>以下為網站進去的畫面，你可以直接將影片連結貼到網址列，就可以直接轉為GIF動畫拉<br><img src="http://i.imgur.com/04TQ3To.png" alt="Imgur to Vide0"></p>
-<p>另外他也提供部分客製的功能，你可以自行選擇你想要的開始和結束時間，最長可以到達15秒唷！！<br><img src="http://i.imgur.com/H3NKQCp.png" alt="Imgur"></p>
-<h4 id="2-GifYt"><a href="#2-GifYt" class="headerlink" title="2. GifYt"></a>2. <a href="https://gifs.com" target="_blank" rel="external">GifYt</a></h4><p><strong>特色：</strong>特別針對Youtube設計，在 YouTube影片網址前加上 gif，便能直接使用<br><strong>功能：</strong>快速將各種檔案製作成gif或mp4影片</p>
-<h5 id="小介紹：-1"><a href="#小介紹：-1" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GifYt其實就是Gif Youtube的縮寫，顧名思義，當然為了Youtube做了非常方便的功能<br>除了基本的上傳檔案製作成gif或mp4之外，要如何快速的將youtube的影片轉成gif檔呢？<br>以下是小小的示範</p>
-<p>這是一個普通的Youtube的影片<br><img src="http://imgur.com/oQv12Sg.png" title="GifYt " style="width: 70%;height: 70%"></p>
-<p>這是他的網址列<br><img src="http://i.imgur.com/xS5CDOq.png" title="GifYt " style="width: 70%;height: 70%"></p>
-<p>在youtube.com前面加上gif，便能直接輕鬆轉換<br><img src="http://i.imgur.com/tv8rtXs.png" title="GifYt " style="width: 70%;height: 70%"></p>
-<h4 id="3-Gfycat"><a href="#3-Gfycat" class="headerlink" title="3. Gfycat"></a>3. <a href="https://gfycat.com" target="_blank" rel="external">Gfycat</a></h4><p><strong>特色：</strong>能上傳現有的Gif檔，壓縮生成一個更小更有高效的Gif檔<br><strong>功能：</strong>高效的將影片或是Gif生成Gif動畫</p>
-<h5 id="小介紹：-2"><a href="#小介紹：-2" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Gifcat是個頗高品質的gif產生器，讓你更不需要擔心轉檔後的畫質和大小<br>另外，在他的官網首頁有非常多大家的Gif範例，如果突然缺乏靈感也可以來這裡逛逛喔<br><img src="http://i.imgur.com/AB50UeZ.png" title="Gfycat " style="width: 70%;height: 70%"></p>
-<h4 id="4-Make-A-Gif"><a href="#4-Make-A-Gif" class="headerlink" title="4. Make A Gif"></a>4. <a href="http://makeagif.com" target="_blank" rel="external">Make A Gif</a></h4><p><strong>特色：</strong>支援直接將你電腦的攝影機（WebCam）轉Gif動畫喔<br><strong>功能：</strong>Picture、Youtube、Video、WebCam to GIF 和上傳GIF的免費空間</p>
-<h5 id="小介紹：-3"><a href="#小介紹：-3" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Make A Gif 同樣是一個介面設計非常簡潔直觀的網站<br>若是你突然想要在電腦前自拍個搞笑短片變成GIF分享給大家，他絕對是最方便的方式呀！！<br>另外，除了以上功能之外，他的官網也提供非常多大家的GIF讓你可以笑笑或當作靈感參考唷</p>
-<p><img src="http://i.imgur.com/SBdSMxX.png" title="Make A Gif " style="width: 70%;height: 70%"></p>
-<h4 id="5-EZGIF"><a href="#5-EZGIF" class="headerlink" title="5. EZGIF"></a>5. <a href="https://ezgif.com" target="_blank" rel="external">EZGIF</a></h4><p><strong>特色：</strong>支援畫面裁切、最佳化、加入文字、甚至簡單的特效後置、重製大小、分割畫面<br><strong>功能：</strong>將圖片或影片轉為GIF，並提供影像的編輯功能</p>
-<h5 id="小介紹：-4"><a href="#小介紹：-4" class="headerlink" title="小介紹："></a>小介紹：</h5><p>EZGIF是老牌的網站，網站介面較為簡單，但卻提供了許多輕量化的動畫編輯功能，若你是對畫面有特別的需求的高度使用者，他可以解決你非常多的問題<br>一次可以上傳多達400個檔案</p>
-<p>以下為網站的首頁，可以看到它提供了非常多高級的功能</p>
-<p><img src="http://i.imgur.com/1zRuqVx.png" title="EZGIF " style="width: 70%;height: 70%"></p>
-<h4 id="5-GIFMaker"><a href="#5-GIFMaker" class="headerlink" title="5. GIFMaker"></a>5. <a href="http://gifmaker.me" target="_blank" rel="external">GIFMaker</a></h4><p><strong>特色：</strong>支援大小選擇、速度調整、重複次數、聲音加入<br><strong>功能：</strong>上傳圖片做成GIF，並即時編修或加入聲音（youtube only）</p>
-<h5 id="小介紹：-5"><a href="#小介紹：-5" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GIFMaker支援批次上傳圖檔做成GIF，也可依需求做許多非常實用的調整，雖然不支援Video to Gif，但你可以簡單地將一個youtube影片的聲音加入，並選擇開始秒數</p>
-<p>大家看他可以做很多很實用的修改喔，想要做那種很煩人一直重複的Gif他絕對是最輕鬆可以達到的</p>
-<p><img src="http://i.imgur.com/SJK0yG8.png" title="GIFMaker " style="width: 70%;height: 70%"></p>
-<h4 id="6-GIF-Make"><a href="#6-GIF-Make" class="headerlink" title="6. GIF Make"></a>6. <a href="http://gifmake.com" target="_blank" rel="external">GIF Make</a></h4><p><strong>特色：</strong>簡單的拖曳圖片做成Gif<br><strong>功能：</strong>將多張圖片拖曳上傳，製成GIf</p>
-<h5 id="小介紹：-6"><a href="#小介紹：-6" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GIF Make是一個相對簡單輕量的工具，支援拖曳多張圖片製成Gif，可簡單客製你要的大小</p>
-<p><img src="http://i.imgur.com/VkGaykH.png" title="GIFmake " style="width: 70%;height: 70%"></p>
-<h4 id="7-Picasion"><a href="#7-Picasion" class="headerlink" title="7. Picasion"></a>7. <a href="http://picasion.com" target="_blank" rel="external">Picasion</a></h4><p><strong>特色：</strong>可同時混合電腦中、線上、(網路攝影機)WebCam的圖片<br><strong>功能：</strong>將多張圖片製成GIf</p>
-<h5 id="小介紹：-7"><a href="#小介紹：-7" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Picasion是一個頗神奇的工具，如果你同時要整合許多張不同地方的圖片，他可以省去你很多時間</p>
-<p><img src="http://i.imgur.com/ZpyBKXq.png" title="Picasion " style="width: 70%;height: 70%"></p>
-<h4 id="8-GIFMAKER"><a href="#8-GIFMAKER" class="headerlink" title="8. GIFMAKER"></a>8. <a href="http://picasion.com" target="_blank" rel="external">GIFMAKER</a></h4><p><strong>特色：</strong>為你的GIF簡單加入許多好玩的現成特效和濾鏡<br><strong>功能：</strong>將Gif變成更有趣好玩好笑的GIF動畫</p>
-<h5 id="小介紹：-8"><a href="#小介紹：-8" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GIFMAKER有許得非常好玩的效果，真的滿好笑的，覺得你的GIF太死板太單調？讓他來改造你的GIF吧</p>
-<p>這是他首頁的介紹</p>
-<p><img src="http://i.imgur.com/uVzzGKy.png" title="GIFMAKER" style="width: 70%;height: 70%"></p>
-<p>他可以玩很多很多好玩的效果喔！</p>
-<p><img src="http://i.imgur.com/qkOJ5yc.png" title="GIFMAKER" style="width: 70%;height: 70%"></p>
-<p>參考來源 : <a href="https://zh.wikipedia.org/wiki/GIF" target="_blank" rel="external">維基百科</a>、<a href="https://www.bwcss.edu.hk/gallery/webcontent/ComputerStudyRing/gif_animator.pdf" target="_blank" rel="external">什麼是 GIF?</a>、<a href="http://www.playpcesor.com/2015/02/gif-gif10.html" target="_blank" rel="external">免費線上 GIF 動畫製作懶人包：GIF圖還有10種玩法！ </a></p>
+    <content type="html"><![CDATA[<p>今天我們來練習Hexo網誌的入門教學，Hexo是一種很厲害部落格工具，如果還不懂Hexo的朋友可以參考這篇<a href="">官方文件</a>，現在，就讓我們來開始囉～～</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！&lt;/p&gt;
-&lt;p&gt;以下是關於GIF的小小筆記&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;什麼是GIF呢？&lt;/p&gt;
-&lt;/block
+      &lt;p&gt;今天我們來練習Hexo網誌的入門教學，Hexo是一種很厲害部落格工具，如果還不懂Hexo的朋友可以參考這篇&lt;a href=&quot;&quot;&gt;官方文件&lt;/a&gt;，現在，就讓我們來開始囉～～&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>Online Course Plan</title>
-    <link href="http://yoursite.com/2017/03/25/%E7%B6%B2%E8%B7%AF%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86/"/>
-    <id>http://yoursite.com/2017/03/25/網路課程整理/</id>
-    <published>2017-03-24T20:23:15.000Z</published>
-    <updated>2017-03-24T20:23:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>教學平台</p>
-</blockquote>
-<h4 id="Hahow"><a href="#Hahow" class="headerlink" title="Hahow"></a><a href="https://hahow.in" target="_blank" rel="external">Hahow</a></h4><ul>
-<li><p><a href="https://hahow.in/courses/56189df9df7b3d0b005c6639" target="_blank" rel="external">動畫互動網頁程式入門</a></p>
-</li>
-<li><p><a href="https://hahow.in/courses/572be49fd60bb3090091d208" target="_blank" rel="external">不懂設計，也能學會的資訊圖像化密技！ by 圖文不符</a></p>
-</li>
-<li><p><a href="https://hahow.in/courses/577d9599d0c303070041173a" target="_blank" rel="external">AutoCAD 電腦繪圖2D基礎篇－紮實入門</a></p>
-</li>
-</ul>
-<h4 id="Udemy"><a href="#Udemy" class="headerlink" title="Udemy"></a><a href="http://udemy.com" target="_blank" rel="external">Udemy</a></h4><h4 id="Coursera"><a href="#Coursera" class="headerlink" title="Coursera"></a><a href="https://zh-tw.coursera.org" target="_blank" rel="external">Coursera</a></h4><h4 id="30-Days-of-Code"><a href="#30-Days-of-Code" class="headerlink" title="30 Days of Code"></a><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code" target="_blank" rel="external">30 Days of Code</a></h4><h4 id="ShareCourse"><a href="#ShareCourse" class="headerlink" title="ShareCourse"></a><a href="http://www.sharecourse.net/" target="_blank" rel="external">ShareCourse</a></h4><ul>
-<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/848" target="_blank" rel="external">CS01036 2016 網軍大進擊</a></p>
-</li>
-<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/1004" target="_blank" rel="external">CS08008 物聯網基礎架構與應用簡介(2016)</a></p>
-</li>
-</ul>
-<h4 id="edX"><a href="#edX" class="headerlink" title="edX"></a><a href="https://www.edx.org" target="_blank" rel="external">edX</a></h4><ul>
-<li><p><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank" rel="external">CS50 Introduction to Computer Science</a></p>
-</li>
-<li><p><a href="https://courses.edx.org/courses/course-v1:MichiganX+UX501x+3T2016/info" target="_blank" rel="external">UX501x Introduction to User Experience</a></p>
-</li>
-<li><p><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+5T2016/info" target="_blank" rel="external">DAT101x Data Science Orientation</a></p>
-</li>
-<li><p><a href="https://www.edx.org/micromasters/business-analytics" target="_blank" rel="external">Business Analytics</a></p>
-</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;教學平台&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;Hahow&quot;&gt;&lt;a href=&quot;#Hahow&quot; class=&quot;headerlink&quot; title=&quot;Hahow&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://hahow.in&quot; targe
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo 教學資源</title>
-    <link href="http://yoursite.com/2017/03/25/Hexo-%E6%95%99%E5%AD%B8%E8%B3%87%E6%BA%90/"/>
-    <id>http://yoursite.com/2017/03/25/Hexo-教學資源/</id>
-    <published>2017-03-24T20:11:46.000Z</published>
-    <updated>2017-03-24T20:11:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>整理網路上一些Hexo的教學資源</p>
-<ul>
-<li><a href="https://wwssllabcd.github.io/blog/2014/12/22/how-to-install-hexo/" target="_blank" rel="external">Hexo 安裝教學、心得筆記</a><h6 id="printf-“-I’m-EricWang-“"><a href="#printf-“-I’m-EricWang-“" class="headerlink" title="printf(“ I’m EricWang “)"></a>printf(“ I’m EricWang “)</h6></li>
-<li><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">NexT主題使用手冊</a><h6 id="NexT中文文檔"><a href="#NexT中文文檔" class="headerlink" title="NexT中文文檔"></a>NexT中文文檔</h6></li>
-<li><a href="https://sean.life/2016/09/16/Create-a-personl-blog-website/" target="_blank" rel="external">如何使用 Hexo + Github Pages 建立個人部落格</a><h6 id="Sean-Life"><a href="#Sean-Life" class="headerlink" title="Sean.Life"></a>Sean.Life</h6></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;整理網路上一些Hexo的教學資源&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://wwssllabcd.github.io/blog/2014/12/22/how-to-install-hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wordpress TUTORIAL - ＷP教學資源整理</title>
-    <link href="http://yoursite.com/2017/03/25/WP-tutorial/"/>
-    <id>http://yoursite.com/2017/03/25/WP-tutorial/</id>
-    <published>2017-03-24T20:08:24.000Z</published>
-    <updated>2017-03-24T20:08:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>入門文章</p>
-</blockquote>
-<ul>
-<li><a href="https://newbieboss.com/2017-e-commerce-seo-guide/" target="_blank" rel="external">如何優化購物網站的SEO，馬上免費增加流量，提升營業額 [2017最新]</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;入門文章&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://newbieboss.com/2017-e-commerce-seo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;如
-    
-    </summary>
-    
+      <category term="Hexo Blog 部落格 筆記 教學 入門" scheme="http://yoursite.com/tags/Hexo-Blog-%E9%83%A8%E8%90%BD%E6%A0%BC-%E7%AD%86%E8%A8%98-%E6%95%99%E5%AD%B8-%E5%85%A5%E9%96%80/"/>
     
   </entry>
   
   <entry>
     <title>Markdown練習</title>
-    <link href="http://yoursite.com/2017/03/24/Markdown%E7%B7%B4%E7%BF%92/"/>
-    <id>http://yoursite.com/2017/03/24/Markdown練習/</id>
-    <published>2017-03-23T18:21:27.000Z</published>
-    <updated>2017-03-23T18:21:27.000Z</updated>
+    <link href="http://yoursite.com/2017/04/13/Markdown%E7%B7%B4%E7%BF%92/"/>
+    <id>http://yoursite.com/2017/04/13/Markdown練習/</id>
+    <published>2017-04-12T18:41:20.000Z</published>
+    <updated>2017-04-12T18:41:20.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Markdown簡介"><a href="#Markdown簡介" class="headerlink" title="Markdown簡介"></a>Markdown簡介</h2><blockquote>
 <p>Markdown的目標是實現「易讀易寫」，最大靈感來源其實是純文字的電子郵件格式。</p>
@@ -526,6 +282,7 @@
 <p>Markdown的語法有個主要的目的：用來作為一種網路內容的寫作用語言<br>他並不是用來取代html，html已經很容易寫了，Markdown的重點在於讓文件更易讀、編寫。<br>html是一種發佈格式，Markdown是一種編寫的個是，因此Markdown格式只涵蓋純文字可以涵蓋的範圍</p>
 <h3 id="行內HTML"><a href="#行內HTML" class="headerlink" title="行內HTML"></a>行內HTML</h3><ol>
 <li><p>區塊元素<br> 如<code>&lt;div&gt;、&lt;table&gt;、&lt;pre&gt;、&lt;p&gt;</code>等標籤，必需在前後加上空行，以利與內容區隔。<br> 例如：在Markdown中加入HTML表格</p>
+<a id="more"></a>
  <table><br>     <tr><br>         <td>哈妮貓</td><br>         <td>小貓</td><br>         <td>酷貓</td><br>         <td>大貓</td><br>     </tr><br> </table>
 
 <p> Markdown語法在HTML區塊標籤中將不會被進行處理。</p>
@@ -729,7 +486,7 @@ _   底線
 <pre><code>[id]: url/to/image  &quot;Optional title attribute&quot;
 </code></pre><p>也可以用普通的img標籤</p>
 <h4 id="自動連結"><a href="#自動連結" class="headerlink" title="自動連結"></a>自動連結</h4><blockquote>
-<p>直接包起來<br>    <a href="http://Sample.com/" target="_blank" rel="external">http://Sample.com/</a><br>    <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#x64;&#x61;&#x72;&#119;&#105;&#110;&#x37;&#x33;&#56;&#x31;&#x39;&#56;&#55;&#x36;&#53;&#x34;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#109;">&#x64;&#x61;&#x72;&#119;&#105;&#110;&#x37;&#x33;&#56;&#x31;&#x39;&#56;&#55;&#x36;&#53;&#x34;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#109;</a></p>
+<p>直接包起來<br>    <a href="http://Sample.com/" target="_blank" rel="external">http://Sample.com/</a><br>    <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#100;&#x61;&#114;&#119;&#x69;&#x6e;&#55;&#51;&#x38;&#49;&#57;&#x38;&#55;&#54;&#53;&#x34;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#100;&#x61;&#114;&#119;&#x69;&#x6e;&#55;&#51;&#x38;&#49;&#57;&#x38;&#55;&#54;&#53;&#x34;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;</a></p>
 </blockquote>
 <h3 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h3><p>1 <a href="http://markdown.tw" target="_blank" rel="external">Markdown文件</a></p>
 ]]></content>
@@ -737,12 +494,475 @@ _   底線
     <summary type="html">
     
       &lt;h2 id=&quot;Markdown簡介&quot;&gt;&lt;a href=&quot;#Markdown簡介&quot; class=&quot;headerlink&quot; title=&quot;Markdown簡介&quot;&gt;&lt;/a&gt;Markdown簡介&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Markdown的目標是實現「易讀易寫」，最大靈感
+&lt;p&gt;Markdown的目標是實現「易讀易寫」，最大靈感來源其實是純文字的電子郵件格式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Markdown的語法有個主要的目的：用來作為一種網路內容的寫作用語言&lt;br&gt;他並不是用來取代html，html已經很容易寫了，Markdown的重點在於讓文件更易讀、編寫。&lt;br&gt;html是一種發佈格式，Markdown是一種編寫的個是，因此Markdown格式只涵蓋純文字可以涵蓋的範圍&lt;/p&gt;
+&lt;h3 id=&quot;行內HTML&quot;&gt;&lt;a href=&quot;#行內HTML&quot; class=&quot;headerlink&quot; title=&quot;行內HTML&quot;&gt;&lt;/a&gt;行內HTML&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;區塊元素&lt;br&gt; 如&lt;code&gt;&amp;lt;div&amp;gt;、&amp;lt;table&amp;gt;、&amp;lt;pre&amp;gt;、&amp;lt;p&amp;gt;&lt;/code&gt;等標籤，必需在前後加上空行，以利與內容區隔。&lt;br&gt; 例如：在Markdown中加入HTML表格&lt;/p&gt;
     
     </summary>
     
     
       <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Online Course Plan</title>
+    <link href="http://yoursite.com/2017/04/13/%E7%B6%B2%E8%B7%AF%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/04/13/網路課程整理/</id>
+    <published>2017-04-12T18:41:02.000Z</published>
+    <updated>2017-04-12T18:41:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>教學平台</p>
+</blockquote>
+<h4 id="Hahow"><a href="#Hahow" class="headerlink" title="Hahow"></a><a href="https://hahow.in" target="_blank" rel="external">Hahow</a></h4><ul>
+<li><p><a href="https://hahow.in/courses/56189df9df7b3d0b005c6639" target="_blank" rel="external">動畫互動網頁程式入門</a></p>
+</li>
+<li><p><a href="https://hahow.in/courses/572be49fd60bb3090091d208" target="_blank" rel="external">不懂設計，也能學會的資訊圖像化密技！ by 圖文不符</a></p>
+</li>
+<li><p><a href="https://hahow.in/courses/577d9599d0c303070041173a" target="_blank" rel="external">AutoCAD 電腦繪圖2D基礎篇－紮實入門</a></p>
+<a id="more"></a>
+</li>
+</ul>
+<h4 id="Udemy"><a href="#Udemy" class="headerlink" title="Udemy"></a><a href="http://udemy.com" target="_blank" rel="external">Udemy</a></h4><h4 id="Coursera"><a href="#Coursera" class="headerlink" title="Coursera"></a><a href="https://zh-tw.coursera.org" target="_blank" rel="external">Coursera</a></h4><h4 id="30-Days-of-Code"><a href="#30-Days-of-Code" class="headerlink" title="30 Days of Code"></a><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code" target="_blank" rel="external">30 Days of Code</a></h4><h4 id="ShareCourse"><a href="#ShareCourse" class="headerlink" title="ShareCourse"></a><a href="http://www.sharecourse.net/" target="_blank" rel="external">ShareCourse</a></h4><ul>
+<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/848" target="_blank" rel="external">CS01036 2016 網軍大進擊</a></p>
+</li>
+<li><p><a href="http://www.sharecourse.net/sharecourse/course/content/homepage/1004" target="_blank" rel="external">CS08008 物聯網基礎架構與應用簡介(2016)</a></p>
+</li>
+</ul>
+<h4 id="edX"><a href="#edX" class="headerlink" title="edX"></a><a href="https://www.edx.org" target="_blank" rel="external">edX</a></h4><ul>
+<li><p><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank" rel="external">CS50 Introduction to Computer Science</a></p>
+</li>
+<li><p><a href="https://courses.edx.org/courses/course-v1:MichiganX+UX501x+3T2016/info" target="_blank" rel="external">UX501x Introduction to User Experience</a></p>
+</li>
+<li><p><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+5T2016/info" target="_blank" rel="external">DAT101x Data Science Orientation</a></p>
+</li>
+<li><p><a href="https://www.edx.org/micromasters/business-analytics" target="_blank" rel="external">Business Analytics</a></p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;教學平台&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;Hahow&quot;&gt;&lt;a href=&quot;#Hahow&quot; class=&quot;headerlink&quot; title=&quot;Hahow&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://hahow.in&quot;&gt;Hahow&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://hahow.in/courses/56189df9df7b3d0b005c6639&quot;&gt;動畫互動網頁程式入門&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://hahow.in/courses/572be49fd60bb3090091d208&quot;&gt;不懂設計，也能學會的資訊圖像化密技！ by 圖文不符&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://hahow.in/courses/577d9599d0c303070041173a&quot;&gt;AutoCAD 電腦繪圖2D基礎篇－紮實入門&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>製作GIF圖檔的好用免費工具</title>
+    <link href="http://yoursite.com/2017/04/13/%E8%A3%BD%E4%BD%9Cgif%E5%9C%96%E6%AA%94%E7%9A%84%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/04/13/製作gif圖檔的工具整理/</id>
+    <published>2017-04-12T18:40:50.000Z</published>
+    <updated>2017-04-12T18:40:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！</p>
+<p>以下是關於GIF的小小筆記</p>
+<blockquote>
+<p>什麼是GIF呢？</p>
+</blockquote>
+<p>他正式的名稱是：圖像互換格式（GIF，Graphics Interchange Format）是一種點陣圖圖形檔案格式，以8位元色（即256種顏色）重現真彩色的圖像。它是一種壓縮文件使用LZW壓縮演算法進行編碼，讓圖檔傳得更快。</p>
+<a id="more"></a>
+<blockquote>
+<p>動態GIF？</p>
+</blockquote>
+<p>圖片動起來了？！？！？！<br>其實不是這樣，動態GIF是由許多包含連續圖像的影格組成，再利用像電影一樣連續替換圖像，我們的眼睛對運動物體的視覺殘留，產生「動起來？！？！」的感覺</p>
+<p>想要了解可以參考<a href="https://zh.wikipedia.org/wiki/GIF" target="_blank" rel="external">維基百科</a>、<a href="https://www.bwcss.edu.hk/gallery/webcontent/ComputerStudyRing/gif_animator.pdf" target="_blank" rel="external">什麼是 GIF?</a><br>裡面有對GIF的技術和壓縮原理有詳細的介紹</p>
+<blockquote>
+<p>說了那麼多，我到底要怎麼做</p>
+</blockquote>
+<p>以下為幾個線上的免費ＧＩＦ製作的網站，主要的製作方法可分為兩種：</p>
+<ul>
+<li>將影片轉成動態GIF</li>
+<li>上傳很多很多張圖片把他們拼成一個動態GIF</li>
+</ul>
+<h4 id="1-Imgur-Video-to-GIF"><a href="#1-Imgur-Video-to-GIF" class="headerlink" title="1. Imgur: Video to GIF"></a>1. <a href="http://imgur.com/vidgif" target="_blank" rel="external">Imgur: Video to GIF</a></h4><p><strong>特色：</strong>輕鬆將影片轉成GIF動畫，可直接儲存在Imgur帳號中，分享和保存變得非常方便<br><strong>功能：</strong>將影片轉換成動態GIF圖檔</p>
+<h5 id="小介紹："><a href="#小介紹：" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Imgur: Video to GIF是由Imgur公司推出，介面簡潔好看，使用起來也非常直覺好用</p>
+<p>以下為網站進去的畫面，你可以直接將影片連結貼到網址列，就可以直接轉為GIF動畫拉<br><img src="http://i.imgur.com/04TQ3To.png" alt="Imgur to Vide0"></p>
+<p>另外他也提供部分客製的功能，你可以自行選擇你想要的開始和結束時間，最長可以到達15秒唷！！<br><img src="http://i.imgur.com/H3NKQCp.png" alt="Imgur"></p>
+<h4 id="2-GifYt"><a href="#2-GifYt" class="headerlink" title="2. GifYt"></a>2. <a href="https://gifs.com" target="_blank" rel="external">GifYt</a></h4><p><strong>特色：</strong>特別針對Youtube設計，在 YouTube影片網址前加上 gif，便能直接使用<br><strong>功能：</strong>快速將各種檔案製作成gif或mp4影片</p>
+<h5 id="小介紹：-1"><a href="#小介紹：-1" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GifYt其實就是Gif Youtube的縮寫，顧名思義，當然為了Youtube做了非常方便的功能<br>除了基本的上傳檔案製作成gif或mp4之外，要如何快速的將youtube的影片轉成gif檔呢？<br>以下是小小的示範</p>
+<p>這是一個普通的Youtube的影片<br><img src="http://imgur.com/oQv12Sg.png" title="GifYt " style="width: 70%;height: 70%"></p>
+<p>這是他的網址列<br><img src="http://i.imgur.com/xS5CDOq.png" title="GifYt " style="width: 70%;height: 70%"></p>
+<p>在youtube.com前面加上gif，便能直接輕鬆轉換<br><img src="http://i.imgur.com/tv8rtXs.png" title="GifYt " style="width: 70%;height: 70%"></p>
+<h4 id="3-Gfycat"><a href="#3-Gfycat" class="headerlink" title="3. Gfycat"></a>3. <a href="https://gfycat.com" target="_blank" rel="external">Gfycat</a></h4><p><strong>特色：</strong>能上傳現有的Gif檔，壓縮生成一個更小更有高效的Gif檔<br><strong>功能：</strong>高效的將影片或是Gif生成Gif動畫</p>
+<h5 id="小介紹：-2"><a href="#小介紹：-2" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Gifcat是個頗高品質的gif產生器，讓你更不需要擔心轉檔後的畫質和大小<br>另外，在他的官網首頁有非常多大家的Gif範例，如果突然缺乏靈感也可以來這裡逛逛喔<br><img src="http://i.imgur.com/AB50UeZ.png" title="Gfycat " style="width: 70%;height: 70%"></p>
+<h4 id="4-Make-A-Gif"><a href="#4-Make-A-Gif" class="headerlink" title="4. Make A Gif"></a>4. <a href="http://makeagif.com" target="_blank" rel="external">Make A Gif</a></h4><p><strong>特色：</strong>支援直接將你電腦的攝影機（WebCam）轉Gif動畫喔<br><strong>功能：</strong>Picture、Youtube、Video、WebCam to GIF 和上傳GIF的免費空間</p>
+<h5 id="小介紹：-3"><a href="#小介紹：-3" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Make A Gif 同樣是一個介面設計非常簡潔直觀的網站<br>若是你突然想要在電腦前自拍個搞笑短片變成GIF分享給大家，他絕對是最方便的方式呀！！<br>另外，除了以上功能之外，他的官網也提供非常多大家的GIF讓你可以笑笑或當作靈感參考唷</p>
+<p><img src="http://i.imgur.com/SBdSMxX.png" title="Make A Gif " style="width: 70%;height: 70%"></p>
+<h4 id="5-EZGIF"><a href="#5-EZGIF" class="headerlink" title="5. EZGIF"></a>5. <a href="https://ezgif.com" target="_blank" rel="external">EZGIF</a></h4><p><strong>特色：</strong>支援畫面裁切、最佳化、加入文字、甚至簡單的特效後置、重製大小、分割畫面<br><strong>功能：</strong>將圖片或影片轉為GIF，並提供影像的編輯功能</p>
+<h5 id="小介紹：-4"><a href="#小介紹：-4" class="headerlink" title="小介紹："></a>小介紹：</h5><p>EZGIF是老牌的網站，網站介面較為簡單，但卻提供了許多輕量化的動畫編輯功能，若你是對畫面有特別的需求的高度使用者，他可以解決你非常多的問題<br>一次可以上傳多達400個檔案</p>
+<p>以下為網站的首頁，可以看到它提供了非常多高級的功能</p>
+<p><img src="http://i.imgur.com/1zRuqVx.png" title="EZGIF " style="width: 70%;height: 70%"></p>
+<h4 id="5-GIFMaker"><a href="#5-GIFMaker" class="headerlink" title="5. GIFMaker"></a>5. <a href="http://gifmaker.me" target="_blank" rel="external">GIFMaker</a></h4><p><strong>特色：</strong>支援大小選擇、速度調整、重複次數、聲音加入<br><strong>功能：</strong>上傳圖片做成GIF，並即時編修或加入聲音（youtube only）</p>
+<h5 id="小介紹：-5"><a href="#小介紹：-5" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GIFMaker支援批次上傳圖檔做成GIF，也可依需求做許多非常實用的調整，雖然不支援Video to Gif，但你可以簡單地將一個youtube影片的聲音加入，並選擇開始秒數</p>
+<p>大家看他可以做很多很實用的修改喔，想要做那種很煩人一直重複的Gif他絕對是最輕鬆可以達到的</p>
+<p><img src="http://i.imgur.com/SJK0yG8.png" title="GIFMaker " style="width: 70%;height: 70%"></p>
+<h4 id="6-GIF-Make"><a href="#6-GIF-Make" class="headerlink" title="6. GIF Make"></a>6. <a href="http://gifmake.com" target="_blank" rel="external">GIF Make</a></h4><p><strong>特色：</strong>簡單的拖曳圖片做成Gif<br><strong>功能：</strong>將多張圖片拖曳上傳，製成GIf</p>
+<h5 id="小介紹：-6"><a href="#小介紹：-6" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GIF Make是一個相對簡單輕量的工具，支援拖曳多張圖片製成Gif，可簡單客製你要的大小</p>
+<p><img src="http://i.imgur.com/VkGaykH.png" title="GIFmake " style="width: 70%;height: 70%"></p>
+<h4 id="7-Picasion"><a href="#7-Picasion" class="headerlink" title="7. Picasion"></a>7. <a href="http://picasion.com" target="_blank" rel="external">Picasion</a></h4><p><strong>特色：</strong>可同時混合電腦中、線上、(網路攝影機)WebCam的圖片<br><strong>功能：</strong>將多張圖片製成GIf</p>
+<h5 id="小介紹：-7"><a href="#小介紹：-7" class="headerlink" title="小介紹："></a>小介紹：</h5><p>Picasion是一個頗神奇的工具，如果你同時要整合許多張不同地方的圖片，他可以省去你很多時間</p>
+<p><img src="http://i.imgur.com/ZpyBKXq.png" title="Picasion " style="width: 70%;height: 70%"></p>
+<h4 id="8-GIFMAKER"><a href="#8-GIFMAKER" class="headerlink" title="8. GIFMAKER"></a>8. <a href="http://picasion.com" target="_blank" rel="external">GIFMAKER</a></h4><p><strong>特色：</strong>為你的GIF簡單加入許多好玩的現成特效和濾鏡<br><strong>功能：</strong>將Gif變成更有趣好玩好笑的GIF動畫</p>
+<h5 id="小介紹：-8"><a href="#小介紹：-8" class="headerlink" title="小介紹："></a>小介紹：</h5><p>GIFMAKER有許得非常好玩的效果，真的滿好笑的，覺得你的GIF太死板太單調？讓他來改造你的GIF吧</p>
+<p>這是他首頁的介紹</p>
+<p><img src="http://i.imgur.com/uVzzGKy.png" title="GIFMAKER" style="width: 70%;height: 70%"></p>
+<p>他可以玩很多很多好玩的效果喔！</p>
+<p><img src="http://i.imgur.com/qkOJ5yc.png" title="GIFMAKER" style="width: 70%;height: 70%"></p>
+<p>參考來源 : <a href="https://zh.wikipedia.org/wiki/GIF" target="_blank" rel="external">維基百科</a>、<a href="https://www.bwcss.edu.hk/gallery/webcontent/ComputerStudyRing/gif_animator.pdf" target="_blank" rel="external">什麼是 GIF?</a>、<a href="http://www.playpcesor.com/2015/02/gif-gif10.html" target="_blank" rel="external">免費線上 GIF 動畫製作懶人包：GIF圖還有10種玩法！ </a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！&lt;/p&gt;
+&lt;p&gt;以下是關於GIF的小小筆記&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;什麼是GIF呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;他正式的名稱是：圖像互換格式（GIF，Graphics Interchange Format）是一種點陣圖圖形檔案格式，以8位元色（即256種顏色）重現真彩色的圖像。它是一種壓縮文件使用LZW壓縮演算法進行編碼，讓圖檔傳得更快。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>To Read List</title>
+    <link href="http://yoursite.com/2017/04/13/TRL/"/>
+    <id>http://yoursite.com/2017/04/13/TRL/</id>
+    <published>2017-04-12T18:40:23.000Z</published>
+    <updated>2017-04-12T18:40:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>Frout-End</p>
+</blockquote>
+<ul>
+<li><a href="https://dotblogs.com.tw/wellwind/2016/12/21/front-end-fullcalendar" target="_blank" rel="external">[前端軍火庫]FullCalendar - 輕鬆完成專業級行事曆</a></li>
+<li><a href="http://kimix.name/preload-images-預載圖片/" target="_blank" rel="external">Preload images 預載圖片</a></li>
+<li><a href="https://sofree.cc/lazy-load/" target="_blank" rel="external">Lazy Load 延遲圖片載入，讓網站更順暢</a></li>
+<li><a href="https://css-tricks.com/snippets/jquery/smooth-scrolling/" target="_blank" rel="external">Smooth Scrolling</a>  CSS-Tricks</li>
+<li><a href="http://muki.tw/tech/css-flexbox/" target="_blank" rel="external">CSS Flexbox 介紹與解析</a></li>
+</ul>
+<blockquote>
+<p>IoT</p>
+</blockquote>
+<ul>
+<li><a href="https://fossbytes.com/zero-terminal-tiny-linux-raspberry-pi-computer/" target="_blank" rel="external">Zero Terminal: A Tiny Linux PC That You Can Build Using Raspberry Pi And Smartphone Keyboard</a></li>
+</ul>
+<a id="more"></a>
+<blockquote>
+<p>VueJS</p>
+</blockquote>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=7ZjNQ92Pl3c&amp;list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O&amp;index=4" target="_blank" rel="external">Using V-Bind Directive - Vue.js 2.0 Fundamentals (Part 4)</a></li>
+<li><a href="https://vuejs.org/v2/guide/list.html#v-for" target="_blank" rel="external">List Rendering</a></li>
+<li><a href="https://cn.vuejs.org/v2/guide/#Vue-js-是什么" target="_blank" rel="external">介绍 - Vue.js</a></li>
+</ul>
+<blockquote>
+<p>WP Development</p>
+</blockquote>
+<ul>
+<li><a href="https://theme-fusion.com/local-wordpress-installation-mac/" target="_blank" rel="external">How to Set Up a Local WordPress Installation on Your Mac</a></li>
+<li><a href="https://sofree.cc/wp-gzip/" target="_blank" rel="external">不用外掛，直接啟動WordPress的Gzip網頁壓縮</a></li>
+<li><a href="https://free.com.tw/eight-useful-code-snippets-for-wordpress/" target="_blank" rel="external">8 個實用的 WordPress 程式碼（Code Snippets）</a></li>
+<li><a href="https://sofun.tw/wordpress-optimization/" target="_blank" rel="external">WordPress 優化重點、技巧項目</a></li>
+</ul>
+<blockquote>
+<p>ChatBot</p>
+</blockquote>
+<ul>
+<li><a href="https://www.zhihu.com/question/28283196" target="_blank" rel="external">如何制作一个聊天机器人？</a></li>
+</ul>
+<blockquote>
+<p>GIT</p>
+</blockquote>
+<ul>
+<li><a href="https://blog.othree.net/log/2017/03/25/gitdags-git/" target="_blank" rel="external">Gitdags, Git 示意圖工具</a></li>
+<li><a href="http://gitreal.codeschool.com/levels/1/challenges/2" target="_blank" rel="external"> Code School - Git Real </a></li>
+</ul>
+<blockquote>
+<p>Data</p>
+</blockquote>
+<ul>
+<li><a href="https://www.stockfeel.com.tw/從儲存、挖掘到溝通，引領產業新面貌：大數據big-data/" target="_blank" rel="external">從儲存、挖掘到溝通，引領產業新面貌：大數據(Big Data)</a></li>
+<li><a href="https://buzzorange.com/techorange/2017/03/21/data-science-book/" target="_blank" rel="external">【免費自修資源】精選 8 本資料科學經典書單，讓你自學也能變大師</a></li>
+<li><a href="http://www.smalljacky.com/programming-language/php/ajax-javascript-jquery-example-for-php/" target="_blank" rel="external">Ajax JavaScript 與 jQuery 教學範例 for PHP</a></li>
+</ul>
+<blockquote>
+<p>JS</p>
+</blockquote>
+<ul>
+<li><a href="http://javascript.ruanyifeng.com" target="_blank" rel="external">JavaScript 标准参考教程（alpha）</a></li>
+<li><a href="http://ithelp.ithome.com.tw/articles/10161556" target="_blank" rel="external">Node.js 系列學習日誌 #29 - 部署上線至 Heroku 雲端平台環境</a></li>
+<li><a href="http://wiki.jikexueyuan.com/project/nodejs-guide/" target="_blank" rel="external">七天学会 NodeJS</a></li>
+<li><a href="http://blog.miniasp.com/post/2015/08/13/essential-frontend-tools-2015.aspx" target="_blank" rel="external">前端工程師必須學會的現代化前端開發工具</a></li>
+<li><a href="http://callbackhell.com" target="_blank" rel="external">Callback Hell</a></li>
+<li><a href="http://larry850806.github.io/2016/06/01/async2/" target="_blank" rel="external">[Javascript] 如何用 async 控制流程 (二)</a></li>
+<li><a href="http://dreamerslab.com/blog/tw/node-js-basics/" target="_blank" rel="external">node.js 基本教學</a>  (Module教學)</li>
+<li><a href="http://ball.logdown.com/posts/199525-super-annoying-nodejs-study-notes-async" target="_blank" rel="external">Nodejs學習筆記 -超煩人的Async</a></li>
+<li><a href="http://book.mixu.net/node/ch7.html" target="_blank" rel="external">7. Control flow</a>  Mixu’s Node book</li>
+<li><a href="https://nodejust.com/nodejs-mongodb-read-data/" target="_blank" rel="external">Node.js學習筆記 12：MongoDB的操作－讀取資料庫裡的資料</a></li>
+<li><a href="https://www.youtube.com/watch?v=MhkGQAoc7bc&amp;list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b" target="_blank" rel="external">REACT JS TUTORIAL #1 - Reactjs Javascript Introduction &amp; Workspace Setup</a></li>
+<li><a href="http://fred-zone.blogspot.tw/2017/02/nodejs-protocol-buffers.html" target="_blank" rel="external">Node.js 也可以使用 Protocol Buffers！</a></li>
+<li><a href="https://blog.risingstack.com/node-js-database-tutorial/" target="_blank" rel="external">Node Hero - Node.js Database Tutorial</a></li>
+</ul>
+<ul>
+<li>Dev. Outline<br><img src="http://i.imgur.com/4Ru1pu1.png" style="width: 60%" title="Outline"></li>
+</ul>
+<blockquote>
+<p>Development Tools</p>
+</blockquote>
+<ul>
+<li><a href="https://www.barryblogs.com/sublime-text-ftp-sftp-remotefilesync/" target="_blank" rel="external">Sublime Text FTP/SFTP 遠端檔案同步</a></li>
+<li><a href="https://single9.gitbooks.io/nkfust-bonescript/content/cloud_9/basic_usage.html" target="_blank" rel="external">基本操作 | Beaglebone Black 課程講義</a></li>
+</ul>
+<blockquote>
+<p>Data Visualization</p>
+</blockquote>
+<ul>
+<li><a href="https://datatables.net/forums/discussion/38969" target="_blank" rel="external">Reload/refresh table after event</a></li>
+<li><a href="http://yhhuang1966.blogspot.tw/2013/05/jquery-datatable.html" target="_blank" rel="external">jQuery 套件 DataTables 的測試</a></li>
+<li><a href="https://jsfiddle.net/chanonroy/9xrb0vhe/" target="_blank" rel="external">Chart.js v2 stacked bar chart - JSFiddle</a></li>
+<li><a href="http://echarts.baidu.com/demo.html#effectScatter-bmap" target="_blank" rel="external">ECharts Examples</a></li>
+<li><a href="https://jsfiddle.net/red_stapler/u5aanta8/1/" target="_blank" rel="external">chart.js line 2.0 - JSFiddle</a></li>
+<li><a href="http://www.chartjs.org/docs/" target="_blank" rel="external">Chart.js API Documentation</a></li>
+<li><a href="http://www.bootcss.com/p/chart.js/docs/" target="_blank" rel="external">Chart.js 中文文档</a></li>
+</ul>
+<blockquote>
+<p>MindSeta</p>
+</blockquote>
+<ul>
+<li><a href="https://medium.com/@wilsonhuang/the-effective-engineer-翻譯筆記-optimize-for-learning-part-1-2c8453a9e9df#.lr43ib2zu" target="_blank" rel="external">[The Effective Engineer 翻譯筆記] Optimize for Learning, Part 1</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Frout-End&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dotblogs.com.tw/wellwind/2016/12/21/front-end-fullcalendar&quot;&gt;[前端軍火庫]FullCalendar - 輕鬆完成專業級行事曆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kimix.name/preload-images-預載圖片/&quot;&gt;Preload images 預載圖片&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sofree.cc/lazy-load/&quot;&gt;Lazy Load 延遲圖片載入，讓網站更順暢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://css-tricks.com/snippets/jquery/smooth-scrolling/&quot;&gt;Smooth Scrolling&lt;/a&gt;  CSS-Tricks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://muki.tw/tech/css-flexbox/&quot;&gt;CSS Flexbox 介紹與解析&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;IoT&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://fossbytes.com/zero-terminal-tiny-linux-raspberry-pi-computer/&quot;&gt;Zero Terminal: A Tiny Linux PC That You Can Build Using Raspberry Pi And Smartphone Keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="TRL" scheme="http://yoursite.com/categories/TRL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>To Read List (Design)</title>
+    <link href="http://yoursite.com/2017/03/28/TRL-Design/"/>
+    <id>http://yoursite.com/2017/03/28/TRL-Design/</id>
+    <published>2017-03-27T19:12:36.000Z</published>
+    <updated>2017-03-27T19:12:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>UX</p>
+</blockquote>
+<ul>
+<li><a href="https://hardcorethinking.wordpress.com/2017/03/20/dtc-01/#more-1788" target="_blank" rel="external">[D./DTC] 01: Living with Complexity by Don Norman</a>        (用戶體驗（UX, User Experience）)</li>
+</ul>
+<blockquote>
+<p>Animation</p>
+</blockquote>
+<p><a href="https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e#.v6baxi14l" target="_blank" rel="external">Introducing Lottie</a><br><a href="http://loading.io" target="_blank" rel="external">loading.io</a><br><a href="https://github.com/yutin1987/react-native-loading-cat" target="_blank" rel="external">react-native-loading-cat</a></p>
+<blockquote>
+<p>CSS</p>
+</blockquote>
+<p><a href="https://scotch.io/tag/css" target="_blank" rel="external">Tag Archive for “css” | Scotch</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;UX&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hardcorethinking.wordpress.com/2017/03/20/dtc-01/#more-1788&quot; target=&quot;_blank&quot; 
+    
+    </summary>
+    
+      <category term="TRL" scheme="http://yoursite.com/categories/TRL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>To Read List (Marketing)</title>
+    <link href="http://yoursite.com/2017/03/28/TRL-Marketing/"/>
+    <id>http://yoursite.com/2017/03/28/TRL-Marketing/</id>
+    <published>2017-03-27T19:02:46.000Z</published>
+    <updated>2017-03-27T19:02:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>SEO</p>
+</blockquote>
+<ul>
+<li><a href="http://www.dgcovery.com/2017/02/23/seo-optimization-strategy/" target="_blank" rel="external">優化SEO有訣竅！6招拉高網購流量讓你訂單接到手軟</a></li>
+<li><a href="https://newbieboss.com/2017-e-commerce-seo-guide/" target="_blank" rel="external">如何優化購物網站的SEO，馬上免費增加流量，提升營業額 [2017最新]</a></li>
+</ul>
+<blockquote>
+<p>GA</p>
+</blockquote>
+<ul>
+<li><a href="https://blog.dcplus.com.tw/tools/tools-for-dummies/32958" target="_blank" rel="external">全世界最懶的 GA 懶人包 ─ 第三方工具整合篇</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;SEO&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dgcovery.com/2017/02/23/seo-optimization-strategy/&quot; target=&quot;_blank&quot; rel=&quot;
+    
+    </summary>
+    
+      <category term="TRL" scheme="http://yoursite.com/categories/TRL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bug Fixing Records</title>
+    <link href="http://yoursite.com/2017/03/28/Bug-Fixing-Records/"/>
+    <id>http://yoursite.com/2017/03/28/Bug-Fixing-Records/</id>
+    <published>2017-03-27T18:52:05.000Z</published>
+    <updated>2017-03-27T18:52:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>Node</p>
+</blockquote>
+<ul>
+<li><a href="https://gist.github.com/DanHerbert/9520689" target="_blank" rel="external">Fixing npm On Mac OS X for Homebrew Users</a><pre><code>export PATH=&quot;$HOME/.npm-packages/bin:$PATH&quot;
+</code></pre></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Node&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gist.github.com/DanHerbert/9520689&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Fixing n
+    
+    </summary>
+    
+      <category term="Development" scheme="http://yoursite.com/categories/Development/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>看盤軟體</title>
+    <link href="http://yoursite.com/2017/03/28/%E7%9C%8B%E7%9B%A4%E8%BB%9F%E9%AB%94%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/03/28/看盤軟體整理/</id>
+    <published>2017-03-27T17:17:11.000Z</published>
+    <updated>2017-03-27T17:17:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>想要有好的投資績效，市場行情的快速掌握是絕對是非常關鍵的，以下為各種好用的各種金融看盤軟體整理喔</p>
+<blockquote>
+<p>Future</p>
+</blockquote>
+<ul>
+<li><a href="https://yunbi.com" target="_blank" rel="external">雲幣網</a></li>
+</ul>
+<p><strong>國籍</strong>：China<br><strong>標的</strong>：各式新興的加密貨幣<br><strong>LIST</strong>：BTC, ETH, ZEC, DGD, 1SŦ, REP, SC, ZMC, GNT, BTS, ANS, ETC<br><strong>簡介</strong>：<br>由於雲幣網為交易平台，因此各種資訊是非常充足的，舉凡K線、KD值、成交量、MACD、即時委買委賣量皆一目瞭然，你也可以直接在平台下單</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;想要有好的投資績效，市場行情的快速掌握是絕對是非常關鍵的，以下為各種好用的各種金融看盤軟體整理喔&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Future&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://yunbi.com&quot; target
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 教學資源</title>
+    <link href="http://yoursite.com/2017/03/25/Hexo-%E6%95%99%E5%AD%B8%E8%B3%87%E6%BA%90/"/>
+    <id>http://yoursite.com/2017/03/25/Hexo-教學資源/</id>
+    <published>2017-03-24T20:11:46.000Z</published>
+    <updated>2017-03-24T20:11:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>整理網路上一些Hexo的教學資源</p>
+<ul>
+<li><a href="https://wwssllabcd.github.io/blog/2014/12/22/how-to-install-hexo/" target="_blank" rel="external">Hexo 安裝教學、心得筆記</a><h6 id="printf-“-I’m-EricWang-“"><a href="#printf-“-I’m-EricWang-“" class="headerlink" title="printf(“ I’m EricWang “)"></a>printf(“ I’m EricWang “)</h6></li>
+<li><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">NexT主題使用手冊</a><h6 id="NexT中文文檔"><a href="#NexT中文文檔" class="headerlink" title="NexT中文文檔"></a>NexT中文文檔</h6></li>
+<li><a href="https://sean.life/2016/09/16/Create-a-personl-blog-website/" target="_blank" rel="external">如何使用 Hexo + Github Pages 建立個人部落格</a><h6 id="Sean-Life"><a href="#Sean-Life" class="headerlink" title="Sean.Life"></a>Sean.Life</h6></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;整理網路上一些Hexo的教學資源&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wwssllabcd.github.io/blog/2014/12/22/how-to-install-hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wordpress TUTORIAL - ＷP教學資源整理</title>
+    <link href="http://yoursite.com/2017/03/25/WP-tutorial/"/>
+    <id>http://yoursite.com/2017/03/25/WP-tutorial/</id>
+    <published>2017-03-24T20:08:24.000Z</published>
+    <updated>2017-03-24T20:08:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>入門文章</p>
+</blockquote>
+<ul>
+<li><a href="https://newbieboss.com/2017-e-commerce-seo-guide/" target="_blank" rel="external">如何優化購物網站的SEO，馬上免費增加流量，提升營業額 [2017最新]</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;入門文章&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://newbieboss.com/2017-e-commerce-seo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;如
+    
+    </summary>
+    
     
   </entry>
   
@@ -822,36 +1042,6 @@ _   底線
   </entry>
   
   <entry>
-    <title>Hexo新手入門</title>
-    <link href="http://yoursite.com/2017/01/23/Hexo%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80/"/>
-    <id>http://yoursite.com/2017/01/23/Hexo新手入門/</id>
-    <published>2017-01-23T06:44:44.000Z</published>
-    <updated>2017-01-27T06:50:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天我們來練習Hexo網誌的入門教學，Hexo是一種很厲害部落格工具，如果還不懂Hexo的朋友可以參考這篇<a href="">官方文件</a>，現在，就讓我們來開始囉～～</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天我們來練習Hexo網誌的入門教學，Hexo是一種很厲害部落格工具，如果還不懂Hexo的朋友可以參考這篇&lt;a href=&quot;&quot;&gt;官方文件&lt;/a&gt;，現在，就讓我們來開始囉～～&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; cl
-    
-    </summary>
-    
-    
-      <category term="Hexo Blog 部落格 筆記 教學 入門" scheme="http://yoursite.com/tags/Hexo-Blog-%E9%83%A8%E8%90%BD%E6%A0%BC-%E7%AD%86%E8%A8%98-%E6%95%99%E5%AD%B8-%E5%85%A5%E9%96%80/"/>
-    
-  </entry>
-  
-  <entry>
     <title>title</title>
     <link href="http://yoursite.com/2017/01/22/title/"/>
     <id>http://yoursite.com/2017/01/22/title/</id>
@@ -859,33 +1049,6 @@ _   底線
     <updated>2017-01-22T07:42:22.000Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/01/22/hello-world/"/>
-    <id>http://yoursite.com/2017/01/22/hello-world/</id>
-    <published>2017-01-22T07:41:03.000Z</published>
-    <updated>2017-01-22T07:41:03.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
     
     </summary>
     

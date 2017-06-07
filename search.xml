@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[加密貨幣 - 幣種介紹]]></title>
+      <url>%2F2017%2F06%2F08%2Fcryptocoin-Coin-Introduce%2F</url>
+      <content type="text"><![CDATA[Bitcoin (BTC)名稱：比特幣、巴特幣起始：2009年1月3日用途：交易支付貨幣數量：每四年減半，2140年，總量接近2100萬技術：PoW共識演算法、SHA-256加密算法、C++區塊時間：10分鐘敘述利用加密數位簽章和區塊鏈價值體系，解決信任問題、一幣多付以及跨境支付等問題 Link : BlockChain、Forum、比特台灣論壇、CryptoCompare、WorldCoinIndexBFXDATA、 Others : 比特幣pizza朝聖 Litecoin (LTC)名稱：萊特幣起始：2011年10月7日用途：交易支付貨幣數量：每四年（每840,000個塊）減少一半，最終達到總量8400萬個LTC技術：PoW共識演算法、Scrypt加密算法、C++區塊時間：2.5分鐘 開源的P2P數位貨幣，為比特幣的升級版、交易速度較比特幣快，總量約四倍、挖礦更容易 Link : Website、Forum、BFXDATA、 Ethereum (ETH)名稱：以太坊發行：2014年用途：去中心化智能合約平台數量：每年不變的數量發行預售以太幣總量的0.3倍技術：PoW共識算法、Ethash算法、GO語言區塊時間：16秒 重視區塊鏈的應用層面， 提供各式區塊鏈應用的建立，讓人在上面建立應用，使用以太幣（Ether）交易運算資源 Link : Website、Reddit、Forum、WikiBFXDATA Others : 安裝 Ethereum 開發環境 Ethereum Classic名稱：以太坊經典起始：2016年6月 因以太坊旗下的去中心化自治組織 The DAO被駭5000萬美元價值之以太幣，以太坊進行第三次分叉，部分人繼續維護原有區塊而產生 Link : Github、CryptoCompare Others : 深入解析：以太坊與以太坊經典 Nxt (NXT)名稱：未來幣起始：2013年11月24日用途：很多數量：10億（以發行完畢）技術：透明鍛造(transparent forging)、股權證明（Proof of Stake）機制、JAVA區塊時間：60秒 不同於比特幣，是全新設計和開發的第二代幣，100%PoS機制，不透過挖礦產生貨幣，使用現有帳戶的餘額去「鍛造」區塊並產生交易費用獎勵。透過PoS的優勢，使之能在智慧型手機或 Raspberry Pi 上運行，節省能源且去除51%攻擊的風險 Link : Website、互動百科、Forum、Wiki、Reddit Others : NXT-未来幣 Zcash (ZEC)名稱：Zerocash起始：2014年數量：每四年減半，約2100萬，（有創始人獎勵、慢慢開始挖礦機制）用途：交易支付貨幣技術：零知識證明（zk-SNARK）技術驗證交易 真正完全匿名的交易貨幣，為比特幣分支之一，更注重隱私，自動隱藏區塊鏈上交易數據，用戶有完全掌控權，擁有者能決定提供查看密鑰 Website、Forum、Reddit、WorldCoinIndex、互動百科 Reports：號稱終極匿名的數位貨幣 ZCash 強勢發表，它究竟有什麼好處？ BitShares (BTS)名稱：比特股起始：用途：數量：37億技術：DPoS演算法、區塊時間：3秒 比特股技術，核心帳本採用石墨稀技術，符號為BTS，預挖礦方式發布(初始的比特股BTS由兩部分組成，一部分由PTS持有者轉股而來，另一部分由挖掘產生，並且整套系統還在不斷的為持有BTS的投資者分紅)，比特股通過定期出售分發初始貨幣，Counterparty利用燒毀證明（POB）發行貨幣，BTS除了作為交易費用和激勵機制外，也是資產交易的重要抵押物。區塊時間3秒，開發語言C++。 Link : Website、Reddit、Forum、WorldCoinIndex NEMWebsite FujiCoinWebsite HumaniqWebsite DashWebsite DogecoinWebsite SiacoinWebsite Reddit QtumWebsite Tech Information Blockchain for dummies by IBM Reference：read01]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[數位貨幣資訊整理]]></title>
+      <url>%2F2017%2F06%2F07%2Fdigital-coin-information%2F</url>
+      <content type="text"><![CDATA[SocialMedia 幣圈新聞 區塊客 blockcast.it Pages BCN 幣圈新聞 區塊客 blockcast.it Community Reddit Taipei Ethereum Meetup Forum 數位貨幣論壇Others 小毛 - 幣新聞 CryptocoinEthereumWebsite、Reddit Ethereum ClassicGithub ZcashWebsite Reports：號稱終極匿名的數位貨幣 ZCash 強勢發表，它究竟有什麼好處？ NEMWebsite FujiCoinWebsite HumaniqWebsite DashWebsite DogecoinWebsite SiacoinWebsite Reddit QtumWebsite Tech Information Blockchain for dummies by IBM USDTXMRETHBTC]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[數位貨幣整體市場狀況]]></title>
+      <url>%2F2017%2F06%2F02%2FCryptocoin-Market-Overview-1%2F</url>
+      <content type="text"><![CDATA[整體價值 市值概況 Total Market Capitalization 全世界虛擬貨幣市值價值與比重，以比特幣為主，包含： Total Market Capitalization Total Market Capitalization (Excluding Bitcoin) Percentage of Total Market Capitalization (Dominance) BFX positions]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Flexbox 教學篇(1) - flex-direction]]></title>
+      <url>%2F2017%2F04%2F22%2FFlexbox-flex-direction%2F</url>
+      <content type="text"><![CDATA[flex-direction為決定div排列方式的屬性，最基本的有四種方式 row column row-reverse column Row 敘述：row 在英文中的意思是行，也就是橫的水平排列，而此屬性也是最直觀的由左開始排列效果：由左而右水平排列範例 flex-direction: row （成果） Row-reverse 敘述：reverse 是反轉的意思，顧名思義就是row的相反方向，由右開始也是水平排列效果：由右而左水平排列範例 flex-direction: row-reverse （成果） Column 敘述：column 代表的是列，也就是直的垂直排列，而此屬性也是最直觀的由上開始排列效果：由上而下垂直排列範例 flex-direction: column （成果） Column-reverse 敘述：reverse 是反轉的意思，也就是column的相反方向，由下而上排列效果：由下而上垂直排列範例 flex-direction: column-reverse （成果）]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>%2F2017%2F04%2F13%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hexo新手入門]]></title>
+      <url>%2F2017%2F04%2F13%2FHexo%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%2F</url>
+      <content type="text"><![CDATA[今天我們來練習Hexo網誌的入門教學，Hexo是一種很厲害部落格工具，如果還不懂Hexo的朋友可以參考這篇官方文件，現在，就讓我們來開始囉～～ Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Markdown練習]]></title>
+      <url>%2F2017%2F04%2F13%2FMarkdown%E7%B7%B4%E7%BF%92%2F</url>
+      <content type="text"><![CDATA[Markdown簡介 Markdown的目標是實現「易讀易寫」，最大靈感來源其實是純文字的電子郵件格式。 Markdown的語法有個主要的目的：用來作為一種網路內容的寫作用語言他並不是用來取代html，html已經很容易寫了，Markdown的重點在於讓文件更易讀、編寫。html是一種發佈格式，Markdown是一種編寫的個是，因此Markdown格式只涵蓋純文字可以涵蓋的範圍 行內HTML 區塊元素 如&lt;div&gt;、&lt;table&gt;、&lt;pre&gt;、&lt;p&gt;等標籤，必需在前後加上空行，以利與內容區隔。 例如：在Markdown中加入HTML表格 哈妮貓 小貓 酷貓 大貓 Markdown語法在HTML區塊標籤中將不會被進行處理。 區段標籤 如&lt;span&gt;、&lt;cite&gt;、&lt;del&gt;則不受限制，可以在Markdown的段落、清單或是標題裡任意使用。舉例說明：如果比較喜歡HTML的&lt;a&gt;或&lt;img&gt;標籤，可以直接使用這些標籤。 HTML區段標籤和區塊標籤不同，在區段標籤的範圍內，Markdown的語法是有效的。 特殊字元轉換在HTML中，必須使用實體形式ex: &lt;和&amp;Markdown中允許直接使用，但要小心跳脫字元的使用 區塊元素標題 =為最高標題，-為第二標題 1234This is the title=====this is subtitle---- 插入1~6#分別對應到1~6階 123456# title## title### title#### title##### title###### title 引言 每一行都加上 &gt; 123456&gt; This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,&gt; consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.&gt; Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&gt; &gt; Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse&gt; id sem consectetuer libero luctus adipiscing. 也可以只在第一行加上 &gt; 123456&gt; This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&gt; Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisseid sem consectetuer libero luctus adipiscing. 引言內的引言：再加一層 &gt; 12345&gt; This is the first level of quoting.&gt;&gt; &gt; This is nested blockquote.&gt;&gt; Back to the first level. List Unorder List * + - 做開頭 123456* Cat* Dog+ Cat+ Dog- Ubuntu- Ubuntu Order List 數字. 做開頭，數字並不會影響結果 1234561. Bird1. McHale1. Parish3. Bird1. McHale8. Parish 如果清單項目間用空行分開， Markdown會把項目的內容在輸出時用標籤包起來123* Bird* Magic 會變成1234&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bird&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Magic&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt; 如果要放程式碼區塊的話，該區塊就需要縮排兩次，也就是8個空白或是兩個tab 123* A list item with a code block: &lt;code goes here&gt; 程式碼 簡單地縮排4個空白或是1個tab就可以 123This is a normal paragraph: This is a code block. 程式碼區塊會一直持續到縮排結束為止 Markdown會自動轉換特殊符號 &lt;div class=&quot;footer&quot;&gt; &amp;copy; 2004 Foo Corporation &lt;/div&gt; 變成 &lt;div class=”footer”&gt; &amp;copy; 2004 Foo Corporation &lt;/div&gt; 分隔線 一行中用三個或以上的星號、減號、底線建立 * * * *** ***** - - - --------------------------------------- 區段元素連結 []內放連結文字後面用()包住網址 連結若要加入Title： 連結 也可以使用相對路徑 關於 未讀 參考連結 強調 Markdown使用星號*和底線_作爲強調符號，用&lt;em&gt;包住，用兩個*和_則會轉成&lt;strong&gt; single asterisks _single underscores_ **double asterisks** __double underscores__ 要在文字後加入普通符號時，運用反斜線 \*this text is surrounded by literal asterisks\* 跳脫字元 用反斜線 \*這是星星的內容!!!\* 可用反斜線的符號 \ 反斜線 ` 反引號 * 星號 _ 底線 {} 大括號 [] 方括號 () 括號 # 井字號 + 加號 - 減號 . 英文句點 ! 驚嘆號 程式碼 想表達程式碼時，可以用```包覆 This is the `code` ! 插入時，要用更多包覆 ``This is the code(`) `` 圖片 行內圖片 ![text](/path/img.jpg) ![text](/path/img.jpg &quot;Optional title&quot;) 參考圖片 ![text][id] id為參考連結的名稱定義： [id]: url/to/image &quot;Optional title attribute&quot; 也可以用普通的img標籤 自動連結 直接包起來 http://Sample.com/ &#100;&#x61;&#114;&#119;&#x69;&#x6e;&#55;&#51;&#x38;&#49;&#57;&#x38;&#55;&#54;&#53;&#x34;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d; Reference1 Markdown文件]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Online Course Plan]]></title>
+      <url>%2F2017%2F04%2F13%2F%E7%B6%B2%E8%B7%AF%E8%AA%B2%E7%A8%8B%E6%95%B4%E7%90%86%2F</url>
+      <content type="text"><![CDATA[教學平台 Hahow 動畫互動網頁程式入門 不懂設計，也能學會的資訊圖像化密技！ by 圖文不符 AutoCAD 電腦繪圖2D基礎篇－紮實入門 UdemyCoursera30 Days of CodeShareCourse CS01036 2016 網軍大進擊 CS08008 物聯網基礎架構與應用簡介(2016) edX CS50 Introduction to Computer Science UX501x Introduction to User Experience DAT101x Data Science Orientation Business Analytics]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[製作GIF圖檔的好用免費工具]]></title>
+      <url>%2F2017%2F04%2F13%2F%E8%A3%BD%E4%BD%9Cgif%E5%9C%96%E6%AA%94%E7%9A%84%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86%2F</url>
+      <content type="text"><![CDATA[今天突然心血來潮想要來些不一樣的貼文，跟粉絲來多一點互動，想要跳脫過去的圖文式貼文，但是直播或是做影片又太麻煩了，這個時候就是GIF上場的時候拉！！！ 以下是關於GIF的小小筆記 什麼是GIF呢？ 他正式的名稱是：圖像互換格式（GIF，Graphics Interchange Format）是一種點陣圖圖形檔案格式，以8位元色（即256種顏色）重現真彩色的圖像。它是一種壓縮文件使用LZW壓縮演算法進行編碼，讓圖檔傳得更快。 動態GIF？ 圖片動起來了？！？！？！其實不是這樣，動態GIF是由許多包含連續圖像的影格組成，再利用像電影一樣連續替換圖像，我們的眼睛對運動物體的視覺殘留，產生「動起來？！？！」的感覺 想要了解可以參考維基百科、什麼是 GIF?裡面有對GIF的技術和壓縮原理有詳細的介紹 說了那麼多，我到底要怎麼做 以下為幾個線上的免費ＧＩＦ製作的網站，主要的製作方法可分為兩種： 將影片轉成動態GIF 上傳很多很多張圖片把他們拼成一個動態GIF 1. Imgur: Video to GIF特色：輕鬆將影片轉成GIF動畫，可直接儲存在Imgur帳號中，分享和保存變得非常方便功能：將影片轉換成動態GIF圖檔 小介紹：Imgur: Video to GIF是由Imgur公司推出，介面簡潔好看，使用起來也非常直覺好用 以下為網站進去的畫面，你可以直接將影片連結貼到網址列，就可以直接轉為GIF動畫拉 另外他也提供部分客製的功能，你可以自行選擇你想要的開始和結束時間，最長可以到達15秒唷！！ 2. GifYt特色：特別針對Youtube設計，在 YouTube影片網址前加上 gif，便能直接使用功能：快速將各種檔案製作成gif或mp4影片 小介紹：GifYt其實就是Gif Youtube的縮寫，顧名思義，當然為了Youtube做了非常方便的功能除了基本的上傳檔案製作成gif或mp4之外，要如何快速的將youtube的影片轉成gif檔呢？以下是小小的示範 這是一個普通的Youtube的影片 這是他的網址列 在youtube.com前面加上gif，便能直接輕鬆轉換 3. Gfycat特色：能上傳現有的Gif檔，壓縮生成一個更小更有高效的Gif檔功能：高效的將影片或是Gif生成Gif動畫 小介紹：Gifcat是個頗高品質的gif產生器，讓你更不需要擔心轉檔後的畫質和大小另外，在他的官網首頁有非常多大家的Gif範例，如果突然缺乏靈感也可以來這裡逛逛喔 4. Make A Gif特色：支援直接將你電腦的攝影機（WebCam）轉Gif動畫喔功能：Picture、Youtube、Video、WebCam to GIF 和上傳GIF的免費空間 小介紹：Make A Gif 同樣是一個介面設計非常簡潔直觀的網站若是你突然想要在電腦前自拍個搞笑短片變成GIF分享給大家，他絕對是最方便的方式呀！！另外，除了以上功能之外，他的官網也提供非常多大家的GIF讓你可以笑笑或當作靈感參考唷 5. EZGIF特色：支援畫面裁切、最佳化、加入文字、甚至簡單的特效後置、重製大小、分割畫面功能：將圖片或影片轉為GIF，並提供影像的編輯功能 小介紹：EZGIF是老牌的網站，網站介面較為簡單，但卻提供了許多輕量化的動畫編輯功能，若你是對畫面有特別的需求的高度使用者，他可以解決你非常多的問題一次可以上傳多達400個檔案 以下為網站的首頁，可以看到它提供了非常多高級的功能 5. GIFMaker特色：支援大小選擇、速度調整、重複次數、聲音加入功能：上傳圖片做成GIF，並即時編修或加入聲音（youtube only） 小介紹：GIFMaker支援批次上傳圖檔做成GIF，也可依需求做許多非常實用的調整，雖然不支援Video to Gif，但你可以簡單地將一個youtube影片的聲音加入，並選擇開始秒數 大家看他可以做很多很實用的修改喔，想要做那種很煩人一直重複的Gif他絕對是最輕鬆可以達到的 6. GIF Make特色：簡單的拖曳圖片做成Gif功能：將多張圖片拖曳上傳，製成GIf 小介紹：GIF Make是一個相對簡單輕量的工具，支援拖曳多張圖片製成Gif，可簡單客製你要的大小 7. Picasion特色：可同時混合電腦中、線上、(網路攝影機)WebCam的圖片功能：將多張圖片製成GIf 小介紹：Picasion是一個頗神奇的工具，如果你同時要整合許多張不同地方的圖片，他可以省去你很多時間 8. GIFMAKER特色：為你的GIF簡單加入許多好玩的現成特效和濾鏡功能：將Gif變成更有趣好玩好笑的GIF動畫 小介紹：GIFMAKER有許得非常好玩的效果，真的滿好笑的，覺得你的GIF太死板太單調？讓他來改造你的GIF吧 這是他首頁的介紹 他可以玩很多很多好玩的效果喔！ 參考來源 : 維基百科、什麼是 GIF?、免費線上 GIF 動畫製作懶人包：GIF圖還有10種玩法！]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[To Read List]]></title>
+      <url>%2F2017%2F04%2F13%2FTRL%2F</url>
+      <content type="text"><![CDATA[Frout-End [前端軍火庫]FullCalendar - 輕鬆完成專業級行事曆 Preload images 預載圖片 Lazy Load 延遲圖片載入，讓網站更順暢 Smooth Scrolling CSS-Tricks CSS Flexbox 介紹與解析 IoT Zero Terminal: A Tiny Linux PC That You Can Build Using Raspberry Pi And Smartphone Keyboard VueJS Using V-Bind Directive - Vue.js 2.0 Fundamentals (Part 4) List Rendering 介绍 - Vue.js WP Development How to Set Up a Local WordPress Installation on Your Mac 不用外掛，直接啟動WordPress的Gzip網頁壓縮 8 個實用的 WordPress 程式碼（Code Snippets） WordPress 優化重點、技巧項目 ChatBot 如何制作一个聊天机器人？ GIT Gitdags, Git 示意圖工具 Code School - Git Real Data 從儲存、挖掘到溝通，引領產業新面貌：大數據(Big Data) 【免費自修資源】精選 8 本資料科學經典書單，讓你自學也能變大師 Ajax JavaScript 與 jQuery 教學範例 for PHP JS JavaScript 标准参考教程（alpha） Node.js 系列學習日誌 #29 - 部署上線至 Heroku 雲端平台環境 七天学会 NodeJS 前端工程師必須學會的現代化前端開發工具 Callback Hell [Javascript] 如何用 async 控制流程 (二) node.js 基本教學 (Module教學) Nodejs學習筆記 -超煩人的Async 7. Control flow Mixu’s Node book Node.js學習筆記 12：MongoDB的操作－讀取資料庫裡的資料 REACT JS TUTORIAL #1 - Reactjs Javascript Introduction &amp; Workspace Setup Node.js 也可以使用 Protocol Buffers！ Node Hero - Node.js Database Tutorial Dev. Outline Development Tools Sublime Text FTP/SFTP 遠端檔案同步 基本操作 | Beaglebone Black 課程講義 Data Visualization Reload/refresh table after event jQuery 套件 DataTables 的測試 Chart.js v2 stacked bar chart - JSFiddle ECharts Examples chart.js line 2.0 - JSFiddle Chart.js API Documentation Chart.js 中文文档 MindSeta [The Effective Engineer 翻譯筆記] Optimize for Learning, Part 1]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[To Read List (Design)]]></title>
+      <url>%2F2017%2F03%2F28%2FTRL-Design%2F</url>
+      <content type="text"><![CDATA[UX [D./DTC] 01: Living with Complexity by Don Norman (用戶體驗（UX, User Experience）) Animation Introducing Lottieloading.ioreact-native-loading-cat CSS Tag Archive for “css” | Scotch]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[To Read List (Marketing)]]></title>
+      <url>%2F2017%2F03%2F28%2FTRL-Marketing%2F</url>
+      <content type="text"><![CDATA[SEO 優化SEO有訣竅！6招拉高網購流量讓你訂單接到手軟 如何優化購物網站的SEO，馬上免費增加流量，提升營業額 [2017最新] GA 全世界最懶的 GA 懶人包 ─ 第三方工具整合篇]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Bug Fixing Records]]></title>
+      <url>%2F2017%2F03%2F28%2FBug-Fixing-Records%2F</url>
+      <content type="text"><![CDATA[Node Fixing npm On Mac OS X for Homebrew Usersexport PATH=&quot;$HOME/.npm-packages/bin:$PATH&quot;]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[看盤軟體]]></title>
+      <url>%2F2017%2F03%2F28%2F%E7%9C%8B%E7%9B%A4%E8%BB%9F%E9%AB%94%E6%95%B4%E7%90%86%2F</url>
+      <content type="text"><![CDATA[想要有好的投資績效，市場行情的快速掌握是絕對是非常關鍵的，以下為各種好用的各種金融看盤軟體整理喔 Future 雲幣網 國籍：China標的：各式新興的加密貨幣LIST：BTC, ETH, ZEC, DGD, 1SŦ, REP, SC, ZMC, GNT, BTS, ANS, ETC簡介：由於雲幣網為交易平台，因此各種資訊是非常充足的，舉凡K線、KD值、成交量、MACD、即時委買委賣量皆一目瞭然，你也可以直接在平台下單]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hexo 教學資源]]></title>
+      <url>%2F2017%2F03%2F25%2FHexo-%E6%95%99%E5%AD%B8%E8%B3%87%E6%BA%90%2F</url>
+      <content type="text"><![CDATA[整理網路上一些Hexo的教學資源 Hexo 安裝教學、心得筆記printf(“ I’m EricWang “) NexT主題使用手冊NexT中文文檔 如何使用 Hexo + Github Pages 建立個人部落格Sean.Life]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Wordpress TUTORIAL - ＷP教學資源整理]]></title>
+      <url>%2F2017%2F03%2F25%2FWP-tutorial%2F</url>
+      <content type="text"><![CDATA[入門文章 如何優化購物網站的SEO，馬上免費增加流量，提升營業額 [2017最新]]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Marketing_Tools]]></title>
+      <url>%2F2017%2F01%2F24%2FMarketing-Tools%2F</url>
+      <content type="text"><![CDATA[行銷工具Facebook App主控台 Google Analysis GA]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Tools]]></title>
+      <url>%2F2017%2F01%2F24%2FTools%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Hexo主題索引]]></title>
+      <url>%2F2017%2F01%2F23%2FHexo%E4%B8%BB%E9%A1%8C%E7%B4%A2%E5%BC%95%2F</url>
+      <content type="text"><![CDATA[官方主題頁: Hexo ThemesNexT Demo 開始使用 (中文教學) tranquilpeak Demo Developer documentation User documentation phantom Demo Landscape Demo]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[title]]></title>
+      <url>%2F2017%2F01%2F22%2Ftitle%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+  
+  
+</search>
